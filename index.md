@@ -21,7 +21,7 @@ navigation_weight: 1
 ---------
 
 **Group News**
-
+<!-- 
 * (April 2022) Dr. Dong hosted the department seminar talk by [Prof. Wei Gao](http://www.gao.caltech.edu/) from Caltech!
 
 * (April 2022) An invited [seminar talk](http://www2.me.gatech.edu/www/calendar/view_seminar.asp?speaker=Xiaoguang%20Dong&startDate=4/15/2022&startTime=2:00%20PM) is given by Dr. Dong on shape-morphable wireless miniature robots in the Department of Mechanical Engineering, Georgia Tech, Atlanta, US.
@@ -50,5 +50,5 @@ navigation_weight: 1
 
 * (Nov. 2021) I am co-organizing a journal special issue on [“Magnetic Microrobots for Biomedical Applications”](https://www.mdpi.com/journal/micromachines/special_issues/magnetic_microrobots_biomedical#). You are welcome to submit your work to Micromachines.
 
-* (Oct. 2021) I am joining the Department of Mechanical Engineering, at **[Vanderbilt University](https://www.vanderbilt.edu/)**, Nashville, TN, US in January 2022 as an Assistant Professor. We are actively recruiting PhD students and Postdoctoral researchers. Please see "Opening" for more details. 
+* (Oct. 2021) I am joining the Department of Mechanical Engineering, at **[Vanderbilt University](https://www.vanderbilt.edu/)**, Nashville, TN, US in January 2022 as an Assistant Professor. We are actively recruiting PhD students and Postdoctoral researchers. Please see "Opening" for more details.  -->
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dong Lab
+title: Du Research Group \ Just Du It: Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 description: Research
 navigation_weight: 3
 

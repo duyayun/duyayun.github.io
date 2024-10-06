@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dong Lab
+title: Du Research Group
 description: Publications
 navigation_weight: 2
 ---

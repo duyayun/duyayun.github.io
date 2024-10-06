@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dong Lab
+title: Du Research Group
 description: Opportunities
 navigation_weight: 7
 ---
@@ -10,9 +10,9 @@ navigation_weight: 7
 
 
 ## Opening postdoc positions
-* We are actively looking for one postdoc to work on **wireless medical miniature robots**. 
+* We are actively looking for one postdoc to work on **multimodal wireless bioelectronics**. 
 
-Strong candidates should send 1) Cover Letter, 2) resume/CV, and 3) representative papers in a single PDF to Dr. Xiaoguang Dong via email xiaoguang.dong@vanderbilt.edu. 
+Strong candidates should send 1) Cover Letter, 2) resume/CV, and 3) representative papers in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. 
 
 ## Opening PhD positions
 * We are always welcoming strong potential PhD students who are interested in miniature robotics to apply. 
