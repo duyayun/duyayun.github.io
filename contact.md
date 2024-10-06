@@ -8,10 +8,11 @@ navigation_weight: 8
 
 ## For contacting PI (see [Opportunity](./opportunity) for potential positions)
 * Email: yayun.du[at]vanderbilt.edu
-* Mailing address:  -->
-<!-- 
+* Mailing address: 
+
 ```
 TBD
+
 ```
 
 ## Lab location
