@@ -8,15 +8,11 @@ navigation_weight: 8
 
 ## For contacting PI (see [Opportunity](./opportunity) for potential positions)
 * Email: yayun.du[at]vanderbilt.edu
-<!-- * Mailing address:  -->
+* Mailing address:  -->
 <!-- 
 ```
-101 Olin Hall, 
-Engineering and Science Building, 
-2414 Highland Ave, 
-Nashville, TN 37212, USA
-
-``` -->
+TBD
+```
 
 ## Lab location
 
