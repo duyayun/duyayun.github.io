@@ -6,7 +6,7 @@ navigation_weight: 5
 ---
 
 # Teaching
-
+## To date, Dr. Du has taught >900 students, consistently achieving outstanding teaching evaluations.
 1. **Department of Electrical and Computer Engineering, Vanderbilt University**
 
 2. **Department of Biomedical Engineering, Northwestern University**
