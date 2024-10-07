@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Du Group 
+description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
 
 ---
-# Du Group  
-<span style="font-size: smaller;">Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction.</span>
 
 ![lab log](lab_cover.png)
 
