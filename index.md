@@ -4,10 +4,9 @@ title: Du Group
 description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
 
----
+# ---
 
-![lab log](lab_cover.png)
-
+# ![lab log](lab_cover.png)
 ---------
 ![lab focus](group_focus.png)
 
