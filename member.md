@@ -19,10 +19,10 @@ She has been recognized as an "MIT CEE Rising Star" and was named one of the "To
 
 
 ## Graduate students
-* We are actively hiring up to three super-motivated, hardworking, and talented Ph.D. students in Spring 2025 and Fall 2025
+* We are actively hiring up to three super-motivated, hardworking, and talented Ph.D. students in Spring 2025 and Fall 2025. Come join us!
 
 ## Undergraduate Students
-* We very much welcome undergraduate students
+* We welcome Master’s and undergraduate students who want to do cool projects and develop cool technologies on bioelectronics and robotics. Come join us!
 
 
 
