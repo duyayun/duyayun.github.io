@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Research Group
+title: Du Group
 description: Publications
 navigation_weight: 2
 ---
