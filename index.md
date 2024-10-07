@@ -7,7 +7,7 @@ navigation_weight: 1
 ![lab log](lab_cover.png)
 
 ---------
-![lab focus](group_focus.png){: width="600px" style="text-align: center"} 
+![lab focus](group_focus.png)
 
 **The research of Du Group will focus on three aspects.**
 * Design, fabrication, and signal processing of **multimodal, multi-point wearable and implantable bioelectronic sensor systems**, with applications in intelligent health monitoring and disease diagnosis and prevention in healthcare.
