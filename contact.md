@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Research Group
+title: Du Group
 description: Contact
 navigation_weight: 8
 ---
@@ -27,14 +27,19 @@ Nashville, TN 37240, USA
 <iframe src="https://www.vanderbilt.edu/map/locations/featheringill-jacobs-hall/" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-## Gallery of the Featheringill-Jacobs Hall Building
+## Gallery of the Engineering and Science Bldg.
 
-![ESB](FGHB_01.jpg){: width="500px"} 
+![ESB](ESB_01.jpeg){: width="500px"} 
 
-![ESB](FGHB_02.jpg){: width="500px"} 
+![ESB](ESB_02.jpeg){: width="500px"} 
 
+![ESB](ESB_03.jpeg){: width="500px"}
 
+![ESB](ESB_04.jpeg){: width="500px"}
  
+![ESB](ESB_05.jpeg){: width="500px"}
+
+![ESB](ESB_06.jpeg){: width="500px"}
 
 [back](./)
 

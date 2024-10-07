@@ -10,7 +10,7 @@ navigation_weight: 7
 
 
 ## Opening postdoc positions
-* We are actively looking for one postdoc to work on **multimodal wireless bioelectronics**. 
+* We are actively looking for one postdoc or computer engineering/science technician to work on **multimodal wireless bioelectronics**. 
 
 Strong candidates should send 1) Cover Letter, 2) resume/CV, and 3) representative papers in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. 
 
