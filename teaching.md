@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Du Research Group
-description: Teaching
+description: **Just Du It: Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction**
 navigation_weight: 5
 ---
 
