@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Du Group
-description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
+title: Du Group <br> Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
+description: Teaching
 navigation_weight: 5
 ---
 
