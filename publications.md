@@ -10,7 +10,7 @@ navigation_weight: 2
 For previous publications, please visit
 [**Google Scholar**](https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en).
 
-<img src="research_overview.png" alt="research overview" width="900"/> 
+Research works are being submitted and submitted to prestigious journals (some of them impact factor>25) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
 # **Medical miniature robots**
@@ -20,7 +20,7 @@ For previous publications, please visit
 
 ![Climbing](climbing.png) 
 
-Journal paper: Y. Wu#, **X. Dong#**, J. Kim#, C. Wang, M. Sitti, “Wireless soft millirobots for climbing three-dimensional surfaces in confined spaces”, In press, Science Advances, 2022.
+Journal paper: Y. Wu#, **X. Dong#**, J. Kim#, C. Wang, M. Sitti, “Wireless soft millirobots for climbing three-dimensional surfaces in confined spaces”, Submitted, PNAS, 2024.
 
 > Wireless soft-bodied robots at the millimeter-scale allow traversing very confined unstructured terrains with minimal invasion and safely interacting with the surrounding environment. However, existing untethered soft millirobots still lack the ability of climbing, reversible controlled surface adhesion, and long-term retention on unstructured three-dimensional (3D) surfaces, limiting their use in biomedical and environmental applications. Here we report a fundamental peeling-and-loading mechanism to allow untethered soft-bodied robots to climb 3D surfaces, by utilizing both the soft-body deformation and whole-body motion of the robot under external magnetic fields. This generic mechanism is implemented with different adhesive robot footpad designs, allowing vertical and inverted surface climbing on diverse 3D surfaces with complex geometries and different surface properties. With the unique robot footpad designs by integrating microstructured adhesives and tough bioadhesives, the soft climbing robot could achieve controllable adhesion and friction to climb 3D soft and wet surfaces including porcine tissues, which paves the way for future environmental inspection and minimally invasive medicine applications.
 
