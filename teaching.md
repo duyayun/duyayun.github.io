@@ -8,8 +8,6 @@ navigation_weight: 5
 # Teaching
 
 1. **Department of Electrical and Computer Engineering, Vanderbilt University**
-<!-- * 2022 Spring, Dynamics ME 2190 (ME core)
-* 2023 Fall, Miniature Robotics  -->
 
 2. **Department of Biomedical Engineering, Northwestern University**
 * Spring 2023 - 2024, Teaching Associate, hemodynamics measurement lab in Bioelectronics (Graduate)
@@ -20,12 +18,12 @@ navigation_weight: 5
 4. **Department of Mechanical and Aerospace Engineering, UCLA**
 * Fall 2018 - 2021, Teaching Fellow, M20: Introduction to Computer Programming with MATLAB (Undergraduate)
 
-5. **Department of Physics \& Astronomy, UCLA**
+5. **Department of Physics & Astronomy, UCLA**
 * Spring 2018, Teaching Assistant, Physics 5C: Life Sciences Majors: Electricity, Magnetism, and Modern Physics (Undergraduate)
 * Spring 2018, Teaching Assistant, Physics 1C: Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity(Undergraduate)
 
 6. **Department of Psychology, UCLA**
-* Fall 2017, Teaching Assistant, Psychology 120B: Sensation \& Perception (Undergraduate)
+* Fall 2017, Teaching Assistant, Psychology 120B: Sensation & Perception (Undergraduate)
 
 [back](./)
 

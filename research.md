@@ -8,7 +8,7 @@ navigation_weight: 3
 # Research
 
 
-The research of Dong Lab will focus on three aspects: 
+The research of Du Group will focus on three aspects: 
 
 * The design, manufacture and control of **miniature soft robots**, and their applications in minimally invasive medicine, biomechanics and microfluidics. 
 * The design, manufacture and control of **miniature swarm robots**, and their applications in biomedicine and biomechanics. 
