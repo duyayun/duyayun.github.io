@@ -19,11 +19,6 @@ microrobots for important applications such as biomedicine. His research works h
 
 ## Undergraduate Students
 * We very much welcome undergraduate students
-<!-- * Andrew Haworth (2022.02 - present), Major: ME, VISE Summer Fellow
-* Shreya Shrestha (2022.02 - present), Major: BME
-* Yilan Xu (2022.02 - present), Major: ME
-* Cameron Thomas (2022.03 - present), Major: ME
-* Saksham Sharma (2022.04 - present), Major: ME, Clark Scholar -->
 
 
 
