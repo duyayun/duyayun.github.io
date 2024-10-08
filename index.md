@@ -3,12 +3,16 @@ layout: default
 title: Du Group 
 description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
-
+<div style="text-align: center; margin: 20px 0;">
+  <a href="./opportunity" style="font-size: 1.5rem; font-weight: bold; color: #ffffff; background-color: #159957; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    We are hiring! Join us
+  </a>
+</div>
 ---
 <!-- 
 ![lab log](lab_cover.png)-->
 --------- 
-[We are hiring! Join us](./opportunity)
+<!-- [**We are hiring! Join us**](./opportunity) -->
 ![lab focus](group_focus.png)
 
 **The research of Du Group will focus on three aspects.**
@@ -21,7 +25,7 @@ navigation_weight: 1
 ---------
 <details>
   <summary><strong>Why us?</strong></summary>
-  <p>Our lab focuses on the development of bioelectronics for continuous health monitoring, multi-modal human-robot interaction, and more.</p>
+  <p>Our lab develops  bioelectronics for continuous health monitoring, multi-modal human-robot interaction, and more.</p>
   <p>We deploy complex systems with practical </p>
 </details>
 
