@@ -7,13 +7,10 @@ navigation_weight: 2
 
 # Publications
 
-For previous publications, please visit
-[**Google Scholar**](https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en).
-
 Research works are being submitted and submitted to prestigious journals (some of them impact factor>25) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
-# **Medical miniature robots**
+# **Multimodal wearable EXG-SCG-Acc sensors**
 * **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization
 
 ## Wireless soft climbing robots for drug delivery

@@ -23,24 +23,22 @@ navigation_weight: 1
 [Learn more](./research)
 
 ---------
-
 # Why Us?
+
 <details>
   <summary><strong>&gt; Cutting-Edge Research</strong></summary>
-  <p>We are at the forefront of bioelectronics and robotics, developing innovative technologies that have the potential to revolutionize healthcare and human-machine interaction. Our research is published in top journals and is recognized worldwide.</p>
+  <p>We drive innovation in bioelectronics and robotics, developing high-dimensional systems for real-world applications like ICUs, autonomous factories, and human-in-the-loop systems. Our globally deployed technologies are transforming healthcare and human-machine interaction.</p>
 </details>
 
 <details>
-  <summary><strong>&gt; Collaborative Environment</strong></summary>
-  <p>Our lab fosters a collaborative environment where students and researchers from diverse backgrounds come together to solve challenging problems. We value teamwork, knowledge-sharing, and interdisciplinary learning.</p>
+  <summary><strong>&gt; Diverse and Collaborative Environment</strong></summary>
+  <p>Our lab fosters interdisciplinary teamwork, bringing together students and researchers from various fields. We work closely with the Vanderbilt Institute for Surgery and Engineering (VISE) and leading surgeons to address clinical challenges. As part of Vanderbilt University, home to a Top 10 NIH-funded medical school, we have direct ties to groundbreaking medical research.</p>
 </details>
 
 <details>
-  <summary><strong>&gt; Career Development</strong></summary>
-  <p>We provide numerous opportunities for professional growth, from publishing in high-impact journals to presenting at prestigious conferences. Our alumni have gone on to successful careers in academia, industry, and startups.</p>
+  <summary><strong>&gt; Real-World Impact and Career Growth</strong></summary>
+  <p>Our deployable philosophy turns ideas into solutions that make a real impact. We offer opportunities to publish in top journals, present at major conferences, and access state-of-the-art facilities, preparing you for success in academia, industry, or startups.</p>
 </details>
-
-
 
 ---------
 
