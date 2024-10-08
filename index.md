@@ -3,12 +3,12 @@ layout: default
 title: Du Group 
 description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
+---
 <div style="text-align: center; margin: 20px 0;">
   <a href="./opportunity" style="font-size: 1.5rem; font-weight: bold; color: #ffffff; background-color: #159957; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
     We are hiring! Join us
   </a>
 </div>
----
 <!-- 
 ![lab log](lab_cover.png)-->
 --------- 
