@@ -638,13 +638,13 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
-  @media screen and (min-width: 64em) {
+  @media screen and (min-width: 44em) {
     .page-header {
       padding: 1rem 2rem; } }
-  @media screen and (min-width: 42em) and (max-width: 64em) {
+  @media screen and (min-width: 22em) and (max-width: 64em) {
     .page-header {
       padding: 1rem 2rem; } }
-  @media screen and (max-width: 42em) {
+  @media screen and (max-width: 22em) {
     .page-header {
       padding: 2rem 1rem; } }
 
