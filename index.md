@@ -23,11 +23,24 @@ navigation_weight: 1
 [Learn more](./research)
 
 ---------
+
+# Why Us?
 <details>
-  <summary><strong>Why us?</strong></summary>
-  <p>Our lab develops  bioelectronics for continuous health monitoring, multi-modal human-robot interaction, and more.</p>
-  <p>We deploy complex systems with practical </p>
+  <summary><strong>&gt; Cutting-Edge Research</strong></summary>
+  <p>We are at the forefront of bioelectronics and robotics, developing innovative technologies that have the potential to revolutionize healthcare and human-machine interaction. Our research is published in top journals and is recognized worldwide.</p>
 </details>
+
+<details>
+  <summary><strong>&gt; Collaborative Environment</strong></summary>
+  <p>Our lab fosters a collaborative environment where students and researchers from diverse backgrounds come together to solve challenging problems. We value teamwork, knowledge-sharing, and interdisciplinary learning.</p>
+</details>
+
+<details>
+  <summary><strong>&gt; Career Development</strong></summary>
+  <p>We provide numerous opportunities for professional growth, from publishing in high-impact journals to presenting at prestigious conferences. Our alumni have gone on to successful careers in academia, industry, and startups.</p>
+</details>
+
+
 
 ---------
 
