@@ -8,7 +8,8 @@ navigation_weight: 4
 # Members
 
 
-## Principal Investigator: Dr. Yayun Du <div style="display: inline-block; float: right; margin-left: 15px;">
+## Principal Investigator: Dr. Yayun Du 
+<div style="float: right; margin-left: 15px;">
 <a href="https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en" target="_blank">
     <img src="google-scholar-logo.png" alt="Google Scholar" style="width:30px; margin-right: 10px;">
 </a>
