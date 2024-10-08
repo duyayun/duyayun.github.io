@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Du Group 
-description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction <br> **We are hiring!**[Join us](https://duyayun.github.io/opportunity.html)
+description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
 
 ---
