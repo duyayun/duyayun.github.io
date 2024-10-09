@@ -11,8 +11,9 @@ Research works are being submitted and submitted to prestigious journals (some o
 
 
 # **Wireless multimodal wearable EXG-SCG-Acc sensors (several forthcoming)**
-* **Key words**: Digital health, disease diagnosis, cardiovascular health, neurology, multimodality
-
+* **Key words**: Digital health, multimodality, disease diagnosis, cardiovascular health, neurology, drug delivery, behavior science
+![Wearables](wearables.png) 
+![Implantable](implantable.png) 
 ## **A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection (forthcoming)**
 * **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
 ![Sleep](sleep-Fig1.jpg) 
