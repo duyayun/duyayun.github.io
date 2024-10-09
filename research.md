@@ -8,28 +8,28 @@ navigation_weight: 3
 # Research
 
 
-The research of Du Group will focus on three aspects: 
+The research of Du Group will focus on three aspects.
 
-* The design, manufacture and control of **miniature soft robots**, and their applications in minimally invasive medicine, biomechanics and microfluidics. 
-* The design, manufacture and control of **miniature swarm robots**, and their applications in biomedicine and biomechanics. 
-* The modeling, design, manufacture and control of **intelligent soft materials and devices** based on mechanics model and machine learning. 
+* Design, fabrication, and signal processing of **multimodal, multi-point wearable and implantable bioelectronic sensor systems**, with applications in intelligent health monitoring and disease diagnosis and prevention in healthcare.
+* Safe and efficient **human-in-the-loop** human-robot/computer interaction enabled by bioelectronics and brain-computer interfaces.
+* Application of integrated control and machine learning (including reinforcement learning) to **robotics automation in challenging medical environments**, such as hospital ICUs. 
 
 
 
-<img src="magnetic_systems.png" alt="magnetic system" width="800"/> 
-* A magnetic robotic system is consisted of 1) an intelligent magnetic actuation system, such as an electromagnet actuation system or mobile permanent-magnet system, 2) magnetic miniature robots (rigid or soft, single or swarm, tethered or untethered), and 3) a sensing system such as cameras or medical imaging machines.
+<!-- <img src="magnetic_systems.png" alt="magnetic system" width="800"/> 
+* A magnetic robotic system is consisted of 1) an intelligent magnetic actuation system, such as an electromagnet actuation system or mobile permanent-magnet system, 2) magnetic miniature robots (rigid or soft, single or swarm, tethered or untethered), and 3) a sensing system such as cameras or medical imaging machines. -->
 
 
 
 ---------
 *********
 
-# **Medical miniature robots**
-* **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization
+## **Pain/stress study**
+<!-- * **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization -->
 
-<img src="medical_robot.png" alt="medical robot" width="800"/> 
+<!-- <img src="medical_robot.png" alt="medical robot" width="800"/>  -->
 
-
+<!-- 
 ## Droplet soft robots
 [1] Fan, X.#, **Dong, X.#**, Karacakol, A.C., Xie, H. and Sitti, M., 2020. Reconfigurable multifunctional ferrofluid droplet robots. Proceedings of the National Academy of Sciences, 117(45), pp.27916-27926. [Link](https://www.pnas.org/content/117/45/27916.short)
 
@@ -49,16 +49,15 @@ The research of Du Group will focus on three aspects:
 
 <img src="sensing_actuation.png" alt="capsule robot" width="800"/> 
 
-> This paper proposes a method of simultaneously calibrating magnetic localization and actuation systems for magnetically actuated robots. In this method, uncalibrated magnetic localization and actuation systems are calibrated simultaneously with minimal human intervention, which enables self-calibration, flexible reconfiguration, and long-term correctness of the system parameters. This method employs a bundle adjustment framework using a quadratic measurement model for sensors and the magnetic dipole model for actuators. The proposed method has been verified in comparison with finite element simulations and existing calibration methods for magnetic actuators and sensor arrays. In the experiments, the determinant of coefficient (R2 value) was 99.84% for the sensor system and 99.45% for the actuator system after the calibration, comparable with individual state-of-art calibration methods of calibrating magnetic actuators and sensor arrays. This method has potential to improve the reconfigurability and long-term accuracy of magnetic robot localization and actuation systems, such as magnetically actuated capsule endoscopes.
+> This paper proposes a method of simultaneously calibrating magnetic localization and actuation systems for magnetically actuated robots. In this method, uncalibrated magnetic localization and actuation systems are calibrated simultaneously with minimal human intervention, which enables self-calibration, flexible reconfiguration, and long-term correctness of the system parameters. This method employs a bundle adjustment framework using a quadratic measurement model for sensors and the magnetic dipole model for actuators. The proposed method has been verified in comparison with finite element simulations and existing calibration methods for magnetic actuators and sensor arrays. In the experiments, the determinant of coefficient (R2 value) was 99.84% for the sensor system and 99.45% for the actuator system after the calibration, comparable with individual state-of-art calibration methods of calibrating magnetic actuators and sensor arrays. This method has potential to improve the reconfigurability and long-term accuracy of magnetic robot localization and actuation systems, such as magnetically actuated capsule endoscopes. -->
 
 
-## Soft climbing medical robots (coming soon)
+## **Human-machine interface from organoids** 
 
-## Liquid biopsy medical robots (coming soon)
-
-# **Microrobots for manipulation**
+## **Autonomous interactive robots as assistants of doctors and researchers** 
 
 
+<!-- 
 **Key words**: soft microgrippers, control and motion planning, 3D assseembly, tissue engineering
 <img src="manipulation.png" alt="robotic manipulation" width="800"/> 
 
@@ -76,9 +75,9 @@ The research of Du Group will focus on three aspects:
 
 <img src="planning.png" alt="gripper planning" width="600"/> 
 
-> Most demonstrated mobile microrobot tasks so far have been achieved via pick-and-placing and dynamic trapping with teleoperation or simple path following algorithms. In our previous work, an untethered magnetic microgripper has been developed which has advanced functions, such as gripping objects. Both teleoperated manipulation in 2D and 3D have been demonstrated. However, it is challenging to control the magnetic microgripper to carry out manipulation tasks, because the grasping of objects so far in the literature relies heavily on teleoperation, which takes several minutes with even a skilled human expert. Here, we propose a new spin-walking locomotion and an automated 2D grasping motion planner for the microgripper, which enables time-efficient automatic grasping of microobjects that has not been achieved yet for untethered microrobots. In its locomotion, the microgripper repeatedly rotates about two principal axes to regulate its pose and move precisely on a surface. The motion planner could plan different motion primitives for grasping and compensate the uncertainties in the motion by learning the uncertainties and planning accordingly. We experimentally demonstrated that, using the proposed method, the microgripper could align to the target pose with error less than 0.1 body length and grip the objects within 40 seconds. Our method could significantly improve the time efficiency of micro-scale manipulation and have potential applications in microassembly and biomedical engineering.
+> Most demonstrated mobile microrobot tasks so far have been achieved via pick-and-placing and dynamic trapping with teleoperation or simple path following algorithms. In our previous work, an untethered magnetic microgripper has been developed which has advanced functions, such as gripping objects. Both teleoperated manipulation in 2D and 3D have been demonstrated. However, it is challenging to control the magnetic microgripper to carry out manipulation tasks, because the grasping of objects so far in the literature relies heavily on teleoperation, which takes several minutes with even a skilled human expert. Here, we propose a new spin-walking locomotion and an automated 2D grasping motion planner for the microgripper, which enables time-efficient automatic grasping of microobjects that has not been achieved yet for untethered microrobots. In its locomotion, the microgripper repeatedly rotates about two principal axes to regulate its pose and move precisely on a surface. The motion planner could plan different motion primitives for grasping and compensate the uncertainties in the motion by learning the uncertainties and planning accordingly. We experimentally demonstrated that, using the proposed method, the microgripper could align to the target pose with error less than 0.1 body length and grip the objects within 40 seconds. Our method could significantly improve the time efficiency of micro-scale manipulation and have potential applications in microassembly and biomedical engineering. -->
 
-
+<!-- 
 ---------
 *********
 
@@ -142,7 +141,7 @@ The research of Du Group will focus on three aspects:
 
 
 
-(# indicates equal contribution)
+(# indicates equal contribution) -->
 
 
 

@@ -7,13 +7,13 @@ navigation_weight: 2
 
 # Publications
 
-Research works are being submitted and submitted to prestigious journals (some of them impact factor>25) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
+Research works are being submitted and submitted to prestigious journals (some of them impact factor > xx) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
-# **Multimodal wearable EXG-SCG-Acc sensors**
-* **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization
+# **Wireless multimodal wearable EXG-SCG-Acc sensors (forthcoming)**
+* **Key words**: Digital health, disease diagnosis, cardiovascular health, neurology, multimodality
 
-## Wireless soft climbing robots for drug delivery
+# Autonomous agricultural robots
 
 ![Climbing](climbing.png) 
 
