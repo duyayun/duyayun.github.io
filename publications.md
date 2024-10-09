@@ -22,7 +22,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 
 <iframe width="846" height="502" src="https://www.youtube.com/embed/9e3Q_9aTCQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. **Du, Y.**, Saha, S.*, Sandha, S., Lovekin, A.#, Wu, J., Siddharth, S.,Chowdhary, M., Jawed, M. K.,Srivastava, M., Neural-Kalman GNSS/INS Navigation for Precision Agriculture, ICRA, 2023 [Link](https://ieeexplore.ieee.org/document/10161351)
+* **Du, Y.**, Saha, S.*, Sandha, S., Lovekin, A.#, Wu, J., Siddharth, S.,Chowdhary, M., Jawed, M. K.,Srivastava, M., Neural-Kalman GNSS/INS Navigation for Precision Agriculture, ICRA, 2023 [Link](https://ieeexplore.ieee.org/document/10161351)
 
 <!-- <img src="agri-cnn.png" alt="ICRA2023" width="600"/> -->
 
@@ -33,7 +33,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 <!-- ![Climbing](agri-cnn.png)  -->
 <iframe width="846" height="502" src="https://www.youtube.com/embed/mLXtLS94m38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. **Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
+* **Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
 
 <!-- ![Climbing](agri-cnn.png)  -->
 
@@ -42,7 +42,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 
 > Smart weeding systems to perform plant-specific operations can contribute to the sustainability of agriculture and the environment. Despite monumental advances in autonomous robotic technologies for precision weed management in recent years, work on under-canopy weeding in fields is yet to be realized. A prerequisite of such systems is reliable detection and classification of weeds to avoid mistakenly spraying and, thus, damaging the surrounding plants. Real-time multi-class weed identification enables species-specific treatment of weeds and significantly reduces the amount of herbicide use. Here, our first contribution is the first adequately large realistic image dataset AIWeeds (one/multiple kinds of weeds in one image), a library of about 10,000 annotated images of flax and the 14 most common weeds in fields and gardens taken from 20 different locations in North Dakota, California, and Central China. Second, we provide a full pipeline from model training with maximum efficiency to deploying the TensorRT-optimized model onto a single board computer. Based on AIWeeds and the pipeline, we present a baseline for classification performance using five benchmark CNN models. Among them, MobileNetV2, with both the shortest inference time and lowest memory consumption, is the qualified candidate for real-time applications. Finally, we deploy MobileNetV2 onto our own compact autonomous robot SAMBot for real-time weed detection. The 90% test accuracy realized in previously unseen scenes in flax fields (with a row spacing of 0.2-0.3 m), with crops and weeds, distortion, blur, and shadows, is a milestone towards precision weed control in the real world. We have publicly released the dataset and code to generate the results at https://github.com/StructuresComp/Multi-class-Weed-Classification.
 
-3. **Du, Y.**, Mallajosyula, B.#, Sun, D.#, Chen, J.#, Zhao, Z.#, Rahman, M., Quadir, M., Jawed, M. K., A Low-cost Robot with Autonomous Recharge and Navigation for Weed Control  in  Fields  with  Narrow  Row  Spacing, International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021 (Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design**) 
+* **Du, Y.**, Mallajosyula, B.#, Sun, D.#, Chen, J.#, Zhao, Z.#, Rahman, M., Quadir, M., Jawed, M. K., A Low-cost Robot with Autonomous Recharge and Navigation for Weed Control  in  Fields  with  Narrow  Row  Spacing, International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021 (Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design**) 
 
 > Modern herbicide application in agricultural settings typically relies on either large scale sprayers that dispense herbicide over crops and weeds alike or portable sprayers that require labor intensive manual operation. The former method results in overuse of herbicide and reduction in crop yield while the latter is often untenable in large scale operations. This paper presents the first fully autonomous robot for weed management
 for row crops capable of computer vision based navigation, weed detection, complete field coverage, and automatic recharge for under $400. The target application is autonomous interrow weed control in crop fields, e.g. flax and canola, where the spacing between croplines is as small as one foot. The proposed robot is small enough to pass between croplines at all stages of plant growth while detecting weeds and spraying
@@ -52,8 +52,14 @@ navigation relying on the input from the onboard monocular camera. Incorporating
 <iframe width="846" height="502" src="https://www.youtube.com/embed/m_t2uBjU_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Edge AI-related healthcarea and inertial navigation**
-4. Forthcoming several wearable and implantable sensors with deployable AI algorithms with limited computational power and memory
-5. 
+* Forthcoming several wearable and implantable sensors with deployable AI algorithms with limited computational power and memory
+* Saha, S., **Du, Y.**, Sandha, S., Garcia, L., Jawed, M. K.,Srivastava, M., Inertial Navigation on Extremely Resource-Constrained Platforms: Methods, Opportunities and Challenges, IEEE/ION PLANS, 2023 [link](https://ieeexplore.ieee.org/document/10139997)
+
+<img src="TinyOdom.png" alt="tinyOdom" width="600"/> 
+
+# **Robotic arm control for autonomous robotic painting**
+
+# **Bacteria-inspired flagellated robots**
 <!-- 
 ## Magnetically actuated endoscopes for GI tract medical operation
 
