@@ -19,7 +19,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 ![Sleep](sleep-Fig1.jpg) 
 
 # **Pain study with multimodal wearables in the NICU**
-* Slattery, S., Pessano, S., Yoo, **Du, Y.**, J., Oh, S., Jeong, H., Alla, A., Rand, C., Hamvas, A., Mayer, D., Rogers, J., Continuous monitoring with wireless sensors and applied diagnostics for pain with Clinical Sensor Pain Scale and computer-aided Automated Sensor Pain Scale in the NICU”, BMJ Health & Care Informatics (Under review )
+* Slattery, S., Pessano, S., Yoo, **Du, Y.**, J., Oh, S., Jeong, H., Alla, A., Rand, C., Hamvas, A., Mayer, D., Rogers, J., Continuous monitoring with wireless sensors and applied diagnostics for pain with Clinical Sensor Pain Scale and computer-aided Automated Sensor Pain Scale in the NICU”, BMJ Health & Care Informatics (Under review)
 
 # **Autonomous agricultural robots**
 
@@ -39,6 +39,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 * **Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
 
 ![Argi-CNN](agri-cnn.png) 
+
 ![Argi-hardware](hardware.png) 
 
 <!-- <img src="agri-cnn.png" alt="ICRA2023" width="600"/> 
