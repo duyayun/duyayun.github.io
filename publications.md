@@ -35,10 +35,11 @@ Research works are being submitted and submitted to prestigious journals (some o
 
 * **Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
 
-<!-- ![Climbing](agri-cnn.png)  -->
+![Argi-CNN](agri-cnn.png) 
+![Argi-hardware](hardware.png) 
 
-<img src="agri-cnn.png" alt="ICRA2023" width="600"/> 
-<img src="hardware.png" alt="ICRA2023robot" width="600"/>  
+<!-- <img src="agri-cnn.png" alt="ICRA2023" width="600"/> 
+<img src="hardware.png" alt="ICRA2023robot" width="600"/>   -->
 
 > Smart weeding systems to perform plant-specific operations can contribute to the sustainability of agriculture and the environment. Despite monumental advances in autonomous robotic technologies for precision weed management in recent years, work on under-canopy weeding in fields is yet to be realized. A prerequisite of such systems is reliable detection and classification of weeds to avoid mistakenly spraying and, thus, damaging the surrounding plants. Real-time multi-class weed identification enables species-specific treatment of weeds and significantly reduces the amount of herbicide use. Here, our first contribution is the first adequately large realistic image dataset AIWeeds (one/multiple kinds of weeds in one image), a library of about 10,000 annotated images of flax and the 14 most common weeds in fields and gardens taken from 20 different locations in North Dakota, California, and Central China. Second, we provide a full pipeline from model training with maximum efficiency to deploying the TensorRT-optimized model onto a single board computer. Based on AIWeeds and the pipeline, we present a baseline for classification performance using five benchmark CNN models. Among them, MobileNetV2, with both the shortest inference time and lowest memory consumption, is the qualified candidate for real-time applications. Finally, we deploy MobileNetV2 onto our own compact autonomous robot SAMBot for real-time weed detection. The 90% test accuracy realized in previously unseen scenes in flax fields (with a row spacing of 0.2-0.3 m), with crops and weeds, distortion, blur, and shadows, is a milestone towards precision weed control in the real world. We have publicly released the dataset and code to generate the results at https://github.com/StructuresComp/Multi-class-Weed-Classification.
 
@@ -49,15 +50,24 @@ for row crops capable of computer vision based navigation, weed detection, compl
 herbicide. A recharging system incorporates newly designed robotic hardware, a ramp, a robotic charging arm, and a mobile charging station. An integrated vision algorithm is employed to assist with charger alignment effectively. Combined, they enable the robot to work continuously in the field without access to electricity. In addition, a color-based contour algorithm combined with preprocessing techniques is applied for robust
 navigation relying on the input from the onboard monocular camera. Incorporating such compact robots into farms could help automate weed control, even during late stages of growth, and reduce herbicide use by targeting weeds with precision. The robotic platform is field-tested in the flaxseed fields of North Dakota.
 
-<iframe width="846" height="502" src="https://www.youtube.com/embed/m_t2uBjU_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="846" height="502" src="https://www.youtube.com/embed/-m_t2uBjU_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **Edge AI-related healthcarea and inertial navigation**
+# **Edge AI-related healthcare & inertial navigation**
 * Forthcoming several wearable and implantable sensors with deployable AI algorithms with limited computational power and memory
 * Saha, S., **Du, Y.**, Sandha, S., Garcia, L., Jawed, M. K.,Srivastava, M., Inertial Navigation on Extremely Resource-Constrained Platforms: Methods, Opportunities and Challenges, IEEE/ION PLANS, 2023 [link](https://ieeexplore.ieee.org/document/10139997)
 
-<img src="TinyOdom.png" alt="tinyOdom" width="600"/> 
+![TinyOdom](TinyOdom.png) 
+<!-- <img src="TinyOdom.png" alt="tinyOdom" width="800"/>  -->
 
 # **Robotic arm control for autonomous robotic painting**
+
+<iframe width="846" height="502" src="https://www.youtube.com/embed/upDizLiNd2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* **Du, Y.**, Deng, Z. #, Fang, Z.#, Wang, Y.#, Nagata, T.#, Bansal, K., Quadir, M., Jawed, M. K., Vision and force based autonomous coating with rollers, IROS, Las Vegas, NV, USA, pp. 9954-9960, 202 [Link](https://ieeexplore.ieee.org/document/9341619/)
+
+![robotic_painting](robotic_painting.png)
+
+<iframe width="846" height="502" src="https://www.youtube.com/embed/jGAFGDS2plg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Bacteria-inspired flagellated robots**
 <!-- 
