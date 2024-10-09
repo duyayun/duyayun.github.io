@@ -10,19 +10,24 @@ navigation_weight: 2
 Research works are being submitted and submitted to prestigious journals (some of them impact factor > xx) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
-# **Wireless multimodal wearable EXG-SCG-Acc sensors (forthcoming)**
+# **Wireless multimodal wearable EXG-SCG-Acc sensors (several forthcoming)**
 * **Key words**: Digital health, disease diagnosis, cardiovascular health, neurology, multimodality
+
+# **A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection (forthcoming)**
+* **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
+![Sleep](sleep-Fig1.jpg) 
 
 # Autonomous agricultural robots
 
-![Climbing](climbing.png) 
+![Climbing](agri-cnn.png) 
 
-Journal paper: Y. Wu#, **X. Dong#**, J. Kim#, C. Wang, M. Sitti, “Wireless soft millirobots for climbing three-dimensional surfaces in confined spaces”, Submitted, PNAS, 2024.
+**Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., ``Deep-CNN based real-time robotic multi-class weed identification",  {\em IEEE International Conference on Robotics and Automation (ICRA)}, 2022  [Link](https://www.youtube.com/watch?v=mLXtLS94m38&t=165s)
 
-> Wireless soft-bodied robots at the millimeter-scale allow traversing very confined unstructured terrains with minimal invasion and safely interacting with the surrounding environment. However, existing untethered soft millirobots still lack the ability of climbing, reversible controlled surface adhesion, and long-term retention on unstructured three-dimensional (3D) surfaces, limiting their use in biomedical and environmental applications. Here we report a fundamental peeling-and-loading mechanism to allow untethered soft-bodied robots to climb 3D surfaces, by utilizing both the soft-body deformation and whole-body motion of the robot under external magnetic fields. This generic mechanism is implemented with different adhesive robot footpad designs, allowing vertical and inverted surface climbing on diverse 3D surfaces with complex geometries and different surface properties. With the unique robot footpad designs by integrating microstructured adhesives and tough bioadhesives, the soft climbing robot could achieve controllable adhesion and friction to climb 3D soft and wet surfaces including porcine tissues, which paves the way for future environmental inspection and minimally invasive medicine applications.
+<!-- <img src="cilia.jpeg" alt="cilia robot" width="600"/>  -->
 
+> Smart weeding systems to perform plant-specific operations can contribute to the sustainability of agriculture and the environment. Despite monumental advances in autonomous robotic technologies for precision weed management in recent years, work on under-canopy weeding in fields is yet to be realized. A prerequisite of such systems is reliable detection and classification of weeds to avoid mistakenly spraying and, thus, damaging the surrounding plants. Real-time multi-class weed identification enables species-specific treatment of weeds and significantly reduces the amount of herbicide use. Here, our first contribution is the first adequately large realistic image dataset AIWeeds (one/multiple kinds of weeds in one image), a library of about 10,000 annotated images of flax and the 14 most common weeds in fields and gardens taken from 20 different locations in North Dakota, California, and Central China. Second, we provide a full pipeline from model training with maximum efficiency to deploying the TensorRT-optimized model onto a single board computer. Based on AIWeeds and the pipeline, we present a baseline for classification performance using five benchmark CNN models. Among them, MobileNetV2, with both the shortest inference time and lowest memory consumption, is the qualified candidate for real-time applications. Finally, we deploy MobileNetV2 onto our own compact autonomous robot SAMBot for real-time weed detection. The 90% test accuracy realized in previously unseen scenes in flax fields (with a row spacing of 0.2-0.3 m), with crops and weeds, distortion, blur, and shadows, is a milestone towards precision weed control in the real world. We have publicly released the dataset and code to generate the results at https://github.com/StructuresComp/Multi-class-Weed-Classification.
 
-
+<!-- 
 ## Magnetically actuated endoscopes for GI tract medical operation
 
 Journal paper: Son, D., **Dong, X.** and Sitti, M., 2018. A simultaneous calibration method for magnetic robot localization and actuation systems. IEEE Transactions on Robotics, 35(2), pp.343-352. [link](https://ieeexplore.ieee.org/abstract/document/8594561)
@@ -130,9 +135,9 @@ Conference paper: **Dong, X.** and Sitti, M., 2017, May. Planning spin-walking l
 
 <img src="planning.png" alt="gripper planning" width="600"/> 
 
-> Most demonstrated mobile microrobot tasks so far have been achieved via pick-and-placing and dynamic trapping with teleoperation or simple path following algorithms. In our previous work, an untethered magnetic microgripper has been developed which has advanced functions, such as gripping objects. Both teleoperated manipulation in 2D and 3D have been demonstrated. However, it is challenging to control the magnetic microgripper to carry out manipulation tasks, because the grasping of objects so far in the literature relies heavily on teleoperation, which takes several minutes with even a skilled human expert. Here, we propose a new spin-walking locomotion and an automated 2D grasping motion planner for the microgripper, which enables time-efficient automatic grasping of microobjects that has not been achieved yet for untethered microrobots. In its locomotion, the microgripper repeatedly rotates about two principal axes to regulate its pose and move precisely on a surface. The motion planner could plan different motion primitives for grasping and compensate the uncertainties in the motion by learning the uncertainties and planning accordingly. We experimentally demonstrated that, using the proposed method, the microgripper could align to the target pose with error less than 0.1 body length and grip the objects within 40 seconds. Our method could significantly improve the time efficiency of micro-scale manipulation and have potential applications in microassembly and biomedical engineering.
+> Most demonstrated mobile microrobot tasks so far have been achieved via pick-and-placing and dynamic trapping with teleoperation or simple path following algorithms. In our previous work, an untethered magnetic microgripper has been developed which has advanced functions, such as gripping objects. Both teleoperated manipulation in 2D and 3D have been demonstrated. However, it is challenging to control the magnetic microgripper to carry out manipulation tasks, because the grasping of objects so far in the literature relies heavily on teleoperation, which takes several minutes with even a skilled human expert. Here, we propose a new spin-walking locomotion and an automated 2D grasping motion planner for the microgripper, which enables time-efficient automatic grasping of microobjects that has not been achieved yet for untethered microrobots. In its locomotion, the microgripper repeatedly rotates about two principal axes to regulate its pose and move precisely on a surface. The motion planner could plan different motion primitives for grasping and compensate the uncertainties in the motion by learning the uncertainties and planning accordingly. We experimentally demonstrated that, using the proposed method, the microgripper could align to the target pose with error less than 0.1 body length and grip the objects within 40 seconds. Our method could significantly improve the time efficiency of micro-scale manipulation and have potential applications in microassembly and biomedical engineering. -->
 
-(# indicates equal contribution)
+(# indicates students supervised or mentored by Yayun Du)
 
 
 [back](./)

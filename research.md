@@ -23,6 +23,7 @@ The research of Du Group will focus on three aspects.
 
 ---------
 *********
+More details coming soon 
 
 ## **Pain/stress study**
 <!-- * **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization -->
