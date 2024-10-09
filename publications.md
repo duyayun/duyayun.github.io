@@ -10,7 +10,7 @@ navigation_weight: 2
 Research works are being submitted and submitted to prestigious journals (some of them impact factor > xx) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
-# **Wireless multimodal wearable EXG-SCG-Acc sensors (several forthcoming)**
+# **Wireless multimodal wearable EXG-SCG-Acc sensors (several first-authored forthcoming)**
 * **Key words**: Digital health, multimodality, disease diagnosis, cardiovascular health, neurology, drug delivery, behavior science
 ![Wearables](wearables.png) 
 ![Implantable](implantable.png) 
@@ -20,16 +20,27 @@ Research works are being submitted and submitted to prestigious journals (some o
 
 # **Autonomous agricultural robots**
 
+<iframe width="846" height="502" src="https://www.youtube.com/embed/9e3Q_9aTCQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. **Du, Y.**, Saha, S.*, Sandha, S., Lovekin, A.#, Wu, J., Siddharth, S.,Chowdhary, M., Jawed, M. K.,Srivastava, M., Neural-Kalman GNSS/INS Navigation for Precision Agriculture, ICRA, 2023 [Link](https://ieeexplore.ieee.org/document/10161351)
+
+<img src="agri-cnn.png" alt="ICRA2023" width="600"/>
+
+<iframe width="846" height="502" src="https://www.youtube.com/embed/A_5zkgusCTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Precision agricultural robots require high-resolution navigation solutions. In this paper, we introduce a robust neural-inertial sequence learning approach to track such robots with ultra-intermittent GNSS updates. First, we propose an ultra-lightweight neural-Kalman filter that can track agricultural robots within 1.4 m (1.4–5.8× better than competing techniques), while tracking within 2.75 m with 20 mins of GPS outage. Second, we introduce a user-friendly video-processing toolbox to generate high-resolution (±5 cm) position data for fine-tuning pre-trained neural-inertial models in the field. Third, we introduce the first and largest (6.5 hours, 4.5 km, 3 phases) public neural-inertial navigation dataset for precision agricultural robots. The dataset, toolbox, and code are available at: https://github.com/nesl/agrobot.
+
+<!-- ![Climbing](agri-cnn.png)  -->
 <iframe width="846" height="502" src="https://www.youtube.com/embed/mLXtLS94m38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Climbing](agri-cnn.png) 
+2. **Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
 
-**Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
+<!-- ![Climbing](agri-cnn.png)  -->
 
-<!-- <img src="cilia.jpeg" alt="cilia robot" width="600"/>  -->
+<img src="agri-cnn.png" alt="ICRA2023" width="600"/> 
+<img src="hardware.png" alt="ICRA2023robot" width="600"/>  
 
 > Smart weeding systems to perform plant-specific operations can contribute to the sustainability of agriculture and the environment. Despite monumental advances in autonomous robotic technologies for precision weed management in recent years, work on under-canopy weeding in fields is yet to be realized. A prerequisite of such systems is reliable detection and classification of weeds to avoid mistakenly spraying and, thus, damaging the surrounding plants. Real-time multi-class weed identification enables species-specific treatment of weeds and significantly reduces the amount of herbicide use. Here, our first contribution is the first adequately large realistic image dataset AIWeeds (one/multiple kinds of weeds in one image), a library of about 10,000 annotated images of flax and the 14 most common weeds in fields and gardens taken from 20 different locations in North Dakota, California, and Central China. Second, we provide a full pipeline from model training with maximum efficiency to deploying the TensorRT-optimized model onto a single board computer. Based on AIWeeds and the pipeline, we present a baseline for classification performance using five benchmark CNN models. Among them, MobileNetV2, with both the shortest inference time and lowest memory consumption, is the qualified candidate for real-time applications. Finally, we deploy MobileNetV2 onto our own compact autonomous robot SAMBot for real-time weed detection. The 90% test accuracy realized in previously unseen scenes in flax fields (with a row spacing of 0.2-0.3 m), with crops and weeds, distortion, blur, and shadows, is a milestone towards precision weed control in the real world. We have publicly released the dataset and code to generate the results at https://github.com/StructuresComp/Multi-class-Weed-Classification.
-
 
 
 <!-- 
