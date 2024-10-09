@@ -18,6 +18,9 @@ Research works are being submitted and submitted to prestigious journals (some o
 * **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
 ![Sleep](sleep-Fig1.jpg) 
 
+# **Pain study with multimodal wearables in the NICU**
+* Slattery, S., Pessano, S., Yoo, **Du, Y.**, J., Oh, S., Jeong, H., Alla, A., Rand, C., Hamvas, A., Mayer, D., Rogers, J., Continuous monitoring with wireless sensors and applied diagnostics for pain with Clinical Sensor Pain Scale and computer-aided Automated Sensor Pain Scale in the NICU”, BMJ Health & Care Informatics (Under review )
+
 # **Autonomous agricultural robots**
 
 <iframe width="846" height="502" src="https://www.youtube.com/embed/9e3Q_9aTCQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -69,7 +72,28 @@ navigation relying on the input from the onboard monocular camera. Incorporating
 
 <iframe width="846" height="502" src="https://www.youtube.com/embed/jGAFGDS2plg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* **Du, Y.**, Bansal, K., Palan, E., Quadir, M., Jawed, M. K., Robotic Painting: Mimicking Human Applicators, Journal of Coatings Technology and Research 2022 [link](https://link.springer.com/article/10.1007/s11998-022-00750-7)
+
 # **Bacteria-inspired flagellated robots**
+<iframe width="846" height="502" src="https://www.youtube.com/embed/zTPne5uclnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* **Du, Y.**, Lam, J.,#, Sachanandani, K.#, Jawed, M. K., Modeling the locomotion of articulated soft robots in
+granular medium, IEEE Robotics and Automation Letter (RAL) 2022 & ICRA 2023 [link](https://ieeexplore.ieee.org/document/9770399)
+
+<iframe width="846" height="502" src="https://www.youtube.com/embed/X5xtlZD6EvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![soft_robot_sim](soft_robot_sim.png)
+![soft_robot_exp](soft_robot_exp.png)
+
+* **Du, Y.**, Miller, A.#, Jawed, M. K., Simple Flagellated Soft Robot for Locomotion near Air-Liquid Interface, IEEE International Conference on Soft Robotics (RoboSoft), Yale, CT, 2021 [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479198&tag=1)
+
+<iframe width="846" height="502" src="https://www.youtube.com/embed/c-XRC57cA90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![RoboSoft](RoboSoft.png)
+
+# **To be continued**
+
 <!-- 
 ## Magnetically actuated endoscopes for GI tract medical operation
 
