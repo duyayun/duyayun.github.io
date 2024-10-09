@@ -92,7 +92,7 @@ granular medium, IEEE Robotics and Automation Letter (RAL) 2022 & ICRA 2023 [lin
 
 ![RoboSoft](RoboSoft.png)
 
-# **To be continued**
+# **To be continued (Bacteria-inspired soft robots for autonomous navigation etc)**
 
 <!-- 
 ## Magnetically actuated endoscopes for GI tract medical operation
