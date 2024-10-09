@@ -13,19 +13,21 @@ Research works are being submitted and submitted to prestigious journals (some o
 # **Wireless multimodal wearable EXG-SCG-Acc sensors (several forthcoming)**
 * **Key words**: Digital health, disease diagnosis, cardiovascular health, neurology, multimodality
 
-# **A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection (forthcoming)**
+## **A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection (forthcoming)**
 * **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
 ![Sleep](sleep-Fig1.jpg) 
 
-# Autonomous agricultural robots
+# **Autonomous agricultural robots**
 
 ![Climbing](agri-cnn.png) 
 
-**Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., ``Deep-CNN based real-time robotic multi-class weed identification",  {\em IEEE International Conference on Robotics and Automation (ICRA)}, 2022  [Link](https://www.youtube.com/watch?v=mLXtLS94m38&t=165s)
+**Du, Y.**, Zhang, G.#, Tsang D.#, Jawed, M. K., Deep-CNN based real-time robotic multi-class weed identification, IEEE International Conference on Robotics and Automation (ICRA), 2022 [Link](https://ieeexplore.ieee.org/document/9812240)
 
 <!-- <img src="cilia.jpeg" alt="cilia robot" width="600"/>  -->
 
 > Smart weeding systems to perform plant-specific operations can contribute to the sustainability of agriculture and the environment. Despite monumental advances in autonomous robotic technologies for precision weed management in recent years, work on under-canopy weeding in fields is yet to be realized. A prerequisite of such systems is reliable detection and classification of weeds to avoid mistakenly spraying and, thus, damaging the surrounding plants. Real-time multi-class weed identification enables species-specific treatment of weeds and significantly reduces the amount of herbicide use. Here, our first contribution is the first adequately large realistic image dataset AIWeeds (one/multiple kinds of weeds in one image), a library of about 10,000 annotated images of flax and the 14 most common weeds in fields and gardens taken from 20 different locations in North Dakota, California, and Central China. Second, we provide a full pipeline from model training with maximum efficiency to deploying the TensorRT-optimized model onto a single board computer. Based on AIWeeds and the pipeline, we present a baseline for classification performance using five benchmark CNN models. Among them, MobileNetV2, with both the shortest inference time and lowest memory consumption, is the qualified candidate for real-time applications. Finally, we deploy MobileNetV2 onto our own compact autonomous robot SAMBot for real-time weed detection. The 90% test accuracy realized in previously unseen scenes in flax fields (with a row spacing of 0.2-0.3 m), with crops and weeds, distortion, blur, and shadows, is a milestone towards precision weed control in the real world. We have publicly released the dataset and code to generate the results at https://github.com/StructuresComp/Multi-class-Weed-Classification.
+
+<iframe width="846" height="502" src="https://www.youtube.com/watch?v=mLXtLS94m38&t=165s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- 
 ## Magnetically actuated endoscopes for GI tract medical operation
@@ -50,7 +52,7 @@ Journal paper: **Dong, X.#**, Lum, G.Z.#, Hu, W.#, Zhang, R., Ren, Z., Onck, P.R
 > Coordinated nonreciprocal dynamics in biological cilia is essential to many living systems, where the emergentmetachronal waves of cilia have been hypothesized to enhance net fluid flows at low Reynolds numbers (Re). Experimental investigation of this hypothesis is critical but remains challenging. Here, we report soft miniature devices with both ciliary nonreciprocal motion and metachronal coordination and use them to investigate the quantitative relationship between metachronal coordination and the induced fluid flow. We found that only antiplectic metachronal waves with specific wave vectors could enhance fluid flows compared with the synchronized case. These findings further enable various bioinspired cilia arrays with unique functionalities of pumping and mixing viscous synthetic and biological complex fluids at low Re. Our design method and developed soft miniature devices provide unprecedented opportunities for studying ciliary biomechanics and creating cilia-inspired wireless microfluidic pumping, object manipulation and lab- and organ-on-a-chip devices, mobile microrobots, and bioengineering systems.
 
 
-<iframe width="846" height="502" src="https://www.youtube.com/embed/up3zPToiRd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ---------
