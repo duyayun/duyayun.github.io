@@ -28,12 +28,12 @@ Please fill this [**Application Form, Graduate**](https://docs.google.com/forms/
 ## Master and undergraduate students
 * Dr. Du's mentees have a strong track record of success, with many gaining admission to top graduate programs, including MIT, Stanford, Cornell, CMU, UCLA, University of Michigan, UIUC, and Dartmouth, or securing influential positions in industry with companies like JPL, Google, Amazon Robotics, TuSimple, and General Motors. We invite motivated Master's and undergraduate students to join our research projects in bioelectronics and digital health, with applications in both hospital and home settings. Our work also delves into medical robotics for critical environments like intensive care units (ICUs) and multimodal physiology-driven human-robot/computer interaction for safe and efficient collaboration. If you're passionate about advancing these fields, we encourage you to apply.
 
-Interested students should fill out this [**Application Form, UG**](https://docs.google.com/forms/d/e/1FAIpQLSe2R8mHHPZ7_6N7D8787DcqJr44bk4RXI-nqb5jpJEmQChdRg/viewform?vc=0&c=0&w=1&flr=0), and send 1) Cover Letter, 2) resume/CV, 3) unofficial transcript in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. 
+Interested students should fill out this [**Application Form, UG**](https://docs.google.com/forms/d/e/1FAIpQLSe2R8mHHPZ7_6N7D8787DcqJr44bk4RXI-nqb5jpJEmQChdRg/viewform?vc=0&c=0&w=1&flr=0), and send 1) Cover Letter, 2) resume/CV, 3) unofficial transcript in a single PDF to Dr. Yayun Du via email yayun.du[at]vanderbilt.edu. 
 
 
 ## Visiting students and researchers
 * We welcome inquiries from visiting students and researchers interested in short-term and long-term visits and collaborative opportunities. 
 
-Please send your Cover Letter, resume/CV and representative papers (if any) in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. I will try to reach you back as soon as possible.
+Please send your Cover Letter, resume/CV and representative papers (if any) in a single PDF to Dr. Yayun Du via email yayun.du[at]vanderbilt.edu. I will try to reach you back as soon as possible.
 
 [back](./)
