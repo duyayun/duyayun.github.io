@@ -19,7 +19,13 @@ navigation_weight: 4
 <a href="https://engineering.vanderbilt.edu/bio/?pid=yayun-du" target="_blank">
     <img src="link-logo.png" alt="Link" style="width:30px;">
 </a>
+
+<a href="Yayun_Du_CV_updated" target="_blank" style="font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #159957; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    View My CV
+</a>
 </div>
+
+
 
 ![PI](Yayun_portrait.jpg){: width="250px" style="float:left; padding-right:10px"} 
 Dr. Yayun Du is an Assistant Professor of Electrical and Computer Engineering at Vanderbilt University, with an affiliation to the Vanderbilt Institute for Surgery and Engineering (VISE). Dr. Yayun Du got her Ph.D. in Robotics and System Control (Minor: Solid Mechanics) from [University of California, Los Angeles](https://structures.computer/). From 2022 to 2024, Dr. Du was a postdoctoral scholar at the [**Rogers Group**](https://rogersgroup.northwestern.edu/) at Northwestern University, where she **led 5 projects**, focused on developing multimodal and multiparametric wearable and implantable sensors with integrated edge AI for monitoring cardiopulmonary (e.g., aortic stenosis, atrial fibrillation, and heart failure), neurological (e.g., sleep studies, delirium, coma, and epilepsy), and vocal system health, as well as for disease diagnosis and drug delivery. Her work has led to the deployment of four types of sensors across seven hospitals, benefiting **hundreds of users globally**, from **neonates to the elderly**, in countries including China, Mexico, the U.S., and the U.K.
