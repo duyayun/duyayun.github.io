@@ -20,7 +20,7 @@ navigation_weight: 4
     <img src="link-logo.png" alt="Link" style="width:30px;">
 </a>
 
-<a href="Yayun_Du_CV_updated" target="_blank" style="font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #159957; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
+<a href="Yayun_Du_CV_updated.pdf" target="_blank" style="font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #159957; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
     View My CV
 </a>
 </div>
