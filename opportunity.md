@@ -9,13 +9,13 @@ navigation_weight: 7
 ![openning](vanderbilt_ad.jpg) 
 
 
-## Opening postdoc positions
+## Open postdoc positions
 * We are actively looking for one postdoc or computer engineering/science technician to work on **multimodal wireless bioelectronics**. 
 
 Strong candidates should send 1) Cover Letter, 2) resume/CV, and 3) representative papers in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. 
 
-## Opening PhD positions
-* We welcome exceptional Ph.D. candidates with a passion for pioneering advancements in bioelectronics, medical robotics, and human-robot/computer interaction. If you're eager to make a transformative impact in these fields, we encourage you to apply. One Ph.D. position on bioelectronics and embedded AI; One Ph.D. position on robotics and control for challenging environment including medical applications and human-robot interaction
+## Open PhD positions
+* We welcome exceptional Ph.D. candidates with a passion for pioneering advancements in bioelectronics, medical robotics, and human-robot/computer interaction. If you're eager to make a transformative impact in these fields, we encourage you to apply. One to two Ph.D. position on bioelectronics, signal processing, and embedded AI; One Ph.D. position on robotics and control for challenging environment including medical applications and human-robot interaction.
 
 
 Please send your Cover Letter, resume/CV and representative papers (if any) in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. Please also fill this [**Application Form, Graduate**](https://docs.google.com/forms/d/e/1FAIpQLSe2R8mHHPZ7_6N7D8787DcqJr44bk4RXI-nqb5jpJEmQChdRg/viewform?vc=0&c=0&w=1&flr=0). 
