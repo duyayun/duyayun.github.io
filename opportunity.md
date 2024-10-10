@@ -15,7 +15,7 @@ navigation_weight: 7
 Strong candidates should send 1) Cover Letter, 2) resume/CV, and 3) representative papers in a single PDF to Dr. Yayun Du via email yayun.du@vanderbilt.edu. 
 
 ## Open PhD positions
-* We welcome exceptional Ph.D. candidates with a passion for pioneering advancements in bioelectronics, medical robotics, and human-robot/computer interaction. If you're eager to make a transformative impact in these fields, we encourage you to apply.
+We welcome exceptional Ph.D. candidates with a passion for pioneering advancements in bioelectronics, medical robotics, and human-robot/computer interaction. If you're eager to make a transformative impact in these fields, we encourage you to apply.
 
 We are currently seeking:
 
