@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Du Group 
-description: Just Du It - Advancing Bioelectronics, Robotics, and Human-in-the-Loop Interaction
+description: Just Du It - Leading Innovations in Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
 ---
 <div style="text-align: center; margin: 20px 0;">
