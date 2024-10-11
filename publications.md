@@ -18,7 +18,7 @@ Research works are being submitted and submitted to prestigious journals (some o
 * **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
 ![Sleep](sleep-Fig1.jpg) 
 
-* L. C. Alarcón-Segovia1, K. E. Madsen, C. Liu, S. H. Kim, T. W. Park, **Y. Du**, K. Salame, J. Rogers, Ultralow-cost hydrogel electrolytes based on agricultural by-products for distributed electrophysiological recording in resource-limited settings (Under review)
+* L. C. Alarcón-Segovia, K. E. Madsen, C. Liu, S. H. Kim, T. W. Park, **Y. Du**, K. Salame, J. Rogers, Ultralow-cost hydrogel electrolytes based on agricultural by-products for distributed electrophysiological recording in resource-limited settings (Under review)
 
 # **Pain study with multimodal wearables in the NICU**
 * Slattery, S., Pessano, S., Yoo, **Du, Y.**, J., Oh, S., Jeong, H., Alla, A., Rand, C., Hamvas, A., Mayer, D., Rogers, J., Continuous monitoring with wireless sensors and applied diagnostics for pain with Clinical Sensor Pain Scale and computer-aided Automated Sensor Pain Scale in the NICU, BMJ Health & Care Informatics (Under review)
