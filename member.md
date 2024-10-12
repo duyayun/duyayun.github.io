@@ -35,7 +35,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 ### Selected Honors and Awards
 * 2023 Humboldt Fellowship from Alexander von Humboldt Foundation (25% - 30%) 
 * 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
-* 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars
+* 2021 **MIT Civil and Environmental Engineering (CEE) Rising Stars**
 * 2021 Supervisor of Honorable Mention Best Researcher in the National Science Foundation Summer-funded Undergraduate Researcher Program (SURP) 2021 at UCLA
 * 2021 Chinese-American Engineers and Scientists Association of Southern California (CESASC) Scholarship
 * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division
