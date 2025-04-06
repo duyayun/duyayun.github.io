@@ -180,12 +180,12 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">William Qian/div>
+    <div style="font-weight: bold; font-size: 1.2em;">Chris Lee</div>
     <ul>
         <li><strong>Year:</strong> 2nd Year</li>
-        <li><strong>Major:</strong> Computer Science</li>
-        <li><strong>Project/Team:</strong> Application Design (Frontend)</li>
-        <li><em>"I wanted to get hand-ons practical experience in coding."</em></li>
+        <li><strong>Major:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."</em></li>
     </ul>
   </div>
 </div>
