@@ -50,11 +50,16 @@ College Students (Top 8%)
 ing Research Association in National English Competition for College Students (Top 0.5%)
 
 ## Graduate students
-**Tengyue Wu**
-![](tengyue-wu.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Concentration: Electrical and Computer Engineering
-* Project/Team: Firmware and Application Design
-* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people&mdash;something that can actually contribute to scientific progress."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 200px;"/>
+
+  <div>
+    **Tengyue Wu**  
+    * **Concentration:** Electrical and Computer Engineering  
+    * **Project/Team:** Firmware and Application Design  
+    * _"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."_
+  </div>
+</div>
 
 **Xinmei Huang**
 ![](xinmei-huang.jpg){: width="200px" style="float:left; padding-right:30px"} 
