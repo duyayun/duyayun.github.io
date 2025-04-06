@@ -54,7 +54,7 @@ ing Research Association in National English Competition for College Students (T
 <table>
   <tr>
     <td>
-      <img src="tengyue-wu.jpg" alt="Tengyue Wu" width="200px">
+      <img src="tengyue-wu.jpg" alt="Tengyue Wu" width="350px">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <ul>
