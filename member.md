@@ -54,10 +54,12 @@ ing Research Association in National English Competition for College Students (T
   <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 200px;"/>
 
   <div>
-    **Tengyue Wu**  
-    * **Concentration:** Electrical and Computer Engineering  
-    * **Project/Team:** Firmware and Application Design  
-    * _"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."_
+    <ul>
+        <li><strong>Tengyue Wu</strong></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Firmware and Application Design</li>
+        <li><em>"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."</em></li>
+    </ul>
   </div>
 </div>
 
