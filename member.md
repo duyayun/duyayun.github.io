@@ -51,11 +51,13 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 200px;"/>
+  <div style="width: 200px; height: 200px; background-color: white;">
+    <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
 
   <div>
+    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu</div>
     <ul>
-        <li><strong>Tengyue Wu</strong></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
         <li><strong>Project/Team:</strong> Firmware and Application Design</li>
         <li><em>"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."</em></li>
@@ -63,17 +65,35 @@ ing Research Association in National English Competition for College Students (T
   </div>
 </div>
 
-**Xinmei Huang**
-![](xinmei-huang.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Concentration: Systems Engineering
-* Project/Team: Firmware and Medical Sensor Design
-* "I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white;">
+    <img src="xinmei-huang.jpg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
 
-**Siva Sai Chaitanya Gudari**
-![](siva-sai_chaitanya_gudari.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Concentration: Electrical and Computer Engineering
-* Project/Team: Circuit Design
-* “I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”
+  <div>
+    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang</div>
+    <ul>
+        <li><strong>Concentration:</strong> Systems Engineering</li>
+        <li><strong>Project/Team:</strong> Firmware and Medical Sensor Design</li>
+        <li><em>“I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to.”</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white;">
+    <img src="siva-sai_chaitanya_gudari.jpg" alt="Siva Sai Chaitanya Guardi" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+
+  <div>
+    <div style="font-weight: bold; font-size: 1.2em;">Siva Sai Chaitanya Guardi</div>
+    <ul>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>“I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”</em></li>
+    </ul>
+  </div>
+</div>
 
 ## Undergraduate Students
 **Caiwan Sun**
