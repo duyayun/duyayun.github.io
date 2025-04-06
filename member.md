@@ -51,11 +51,11 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu</div>
     <ul>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
@@ -66,11 +66,11 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang</div>
     <ul>
         <li><strong>Concentration:</strong> Systems Engineering</li>
@@ -81,11 +81,11 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="siva-sai_chaitanya_gudari.jpg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="siva-sai_chaitanya_gudari.jpg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Siva Sai Chaitanya Guardi</div>
     <ul>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
