@@ -51,7 +51,7 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
     <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
@@ -66,8 +66,8 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white;">
-    <img src="xinmei-huang.jpg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+    <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
   <div>
@@ -81,8 +81,8 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white;">
-    <img src="siva-sai_chaitanya_gudari.jpg" alt="Siva Sai Chaitanya Guardi" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+    <img src="siva-sai_chaitanya_gudari.jpg" alt="Xinmei Huang" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
   <div>
