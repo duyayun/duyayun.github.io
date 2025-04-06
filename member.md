@@ -51,6 +51,7 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 **Tengyue Wu**
+![](tengyue-wu.jpg){: width="250px" style="float:left; padding-right:10px"} 
 * Concentration: Electrical and Computer Engineering
 * Project/Team: Firmware and Application Design
 * "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people&mdash;something that can actually contribute to scientific progress."
@@ -107,6 +108,8 @@ ing Research Association in National English Competition for College Students (T
 * Major: Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)
 * Project/Team: Firmware Design
 * "I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."
+
+
 [back](./)
 
 
