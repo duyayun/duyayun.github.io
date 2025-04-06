@@ -51,10 +51,24 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 **Tengyue Wu**
-![](tengyue-wu.jpg){: width="250px" style="float:left; padding-right:10px"} 
-* Concentration: Electrical and Computer Engineering
-* Project/Team: Firmware and Application Design
-* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people&mdash;something that can actually contribute to scientific progress."
+<table>
+  <tr>
+    <td>
+      <img src="tengyue-wu.jpg" alt="Tengyue Wu" width="200px">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <ul>
+        <li><strong>Name:</strong> Tengyue Wu</li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Firmware and Application Design</li>
+        <li><strong>Goal:</strong>  
+          <em>"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."</em>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 **Xinmei Huang**
 * Concentration: Systems Engineering
