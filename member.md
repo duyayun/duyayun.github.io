@@ -56,7 +56,7 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S)</div>
     <ul>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
         <li><strong>Project/Team:</strong> Firmware and Application Design</li>
@@ -71,7 +71,7 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang (M.S)</div>
     <ul>
         <li><strong>Concentration:</strong> Systems Engineering</li>
         <li><strong>Project/Team:</strong> Firmware and Medical Sensor Design</li>
@@ -129,7 +129,8 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="chris-lee.jpeg" alt="Matthew Hu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
