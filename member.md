@@ -51,43 +51,33 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 **Tengyue Wu**
-<table>
-  <tr>
-    <td>
-      <img src="tengyue-wu.jpg" alt="Tengyue Wu" width="350px">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <ul>
-        <li><strong>Name:</strong> Tengyue Wu</li>
-        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
-        <li><strong>Project/Team:</strong> Firmware and Application Design</li>
-        <li><strong>Goal:</strong>  
-          <em>"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."</em>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+![](tengyue-wu.jpg){: width="200px" style="float:left; padding-right:30px"} 
+* Concentration: Electrical and Computer Engineering
+* Project/Team: Firmware and Application Design
+* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people&mdash;something that can actually contribute to scientific progress."
 
 **Xinmei Huang**
+![](xinmei-huang.jpg){: width="200px" style="float:left; padding-right:30px"} 
 * Concentration: Systems Engineering
 * Project/Team: Firmware and Medical Sensor Design
 * "I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to."
 
 **Siva Sai Chaitanya Gudari**
+![](siva-sai_chaitanya_gudari.jpg){: width="200px" style="float:left; padding-right:30px"} 
 * Concentration: Electrical and Computer Engineering
 * Project/Team: Circuit Design
 * “I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”
 
 ## Undergraduate Students
 **Caiwan Sun**
+![](caiwan-sun.jpg){: width="200px" style="float:left; padding-right:30px"} 
 * Year: 2nd Year
 * Major: Electrical and Computer Engineering
 * Project/Team: Circuit Design
 * "I joined the lab to turn hands-on experience into real-world impact."
 
 **Vivian Zeru**
+![](vivian-zeru.jpeg){: width="200px" style="float:left; padding-right:30px"} 
 * Year: 2nd Year
 * Major: Electrical and Computer Engineering (Concentrations in Microelectronics and Embedded Computing & Cyber-Physical Systems)
 * Project/Team: Circuit Design
@@ -100,12 +90,14 @@ ing Research Association in National English Competition for College Students (T
 * "I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."
 
 **Matthew Hu**
+![](matthew-hu.jpeg){: width="200px" style="float:left; padding-right:30px"} 
 * Year: 1st Year
 * Major: Computer Science and Economics
 * Project/Team: Application Design (Backend)
 * "I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."
 
 **Isabelle Gunawan**
+![](isabelle-gunawan.jpg){: width="200px" style="float:left; padding-right:30px"} 
 * Year: 1st Year
 * Major: Computer Science
 * Project/Team: Robotics (Backend)
@@ -118,6 +110,7 @@ ing Research Association in National English Competition for College Students (T
 * "I wanted to get hand-ons practical experience in coding."
 
 **Colin Strout**
+![](colin.j.strout-upda.jpg){: width="200px" style="float:left; padding-right:30px"} 
 * Year: 2nd Year
 * Major: Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)
 * Project/Team: Firmware Design
