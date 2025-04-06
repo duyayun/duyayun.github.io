@@ -82,7 +82,7 @@ ing Research Association in National English Competition for College Students (T
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="siva-sai_chaitanya_gudari.jpg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="siva-sai_chaitanya_gudari.jpg" alt="Siva Sai Chaitanya Gudari" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
@@ -96,53 +96,115 @@ ing Research Association in National English Competition for College Students (T
 </div>
 
 ## Undergraduate Students
-**Caiwan Sun**
-![](caiwan-sun.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Year: 2nd Year
-* Major: Electrical and Computer Engineering
-* Project/Team: Circuit Design
-* "I joined the lab to turn hands-on experience into real-world impact."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="caiwan-sun.png" alt="Caiwan Sun" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
 
-**Vivian Zeru**
-![](vivian-zeru.jpeg){: width="200px" style="float:left; padding-right:30px"} 
-* Year: 2nd Year
-* Major: Electrical and Computer Engineering (Concentrations in Microelectronics and Embedded Computing & Cyber-Physical Systems)
-* Project/Team: Circuit Design
-* "I joined the lab because I am very interested in creating and designing technological devices to help others!"
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Caiwan Sun</div>
+    <ul>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"I joined the lab to turn hands-on experience into real-world impact."</em></li>
+    </ul>
+  </div>
+</div>
 
-**Chris Lee**
-* Year: 2nd Year
-* Major: Electrical and Computer Engineering
-* Project/Team: Circuit Design
-* "I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="vivian-zeru.jpeg" alt="Vivian Zeru" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
 
-**Matthew Hu**
-![](matthew-hu.jpeg){: width="200px" style="float:left; padding-right:30px"} 
-* Year: 1st Year
-* Major: Computer Science and Economics
-* Project/Team: Application Design (Backend)
-* "I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Vivian Zeru</div>
+    <ul>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Microelectronics and Embedded Computing & Cyber-Physical Systems)</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"I joined the lab because I am very interested in creating and designing technological devices to help others!"</em></li>
+    </ul>
+  </div>
+</div>
 
-**Isabelle Gunawan**
-![](isabelle-gunawan.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Year: 1st Year
-* Major: Computer Science
-* Project/Team: Robotics (Backend)
-* "I joined the lab because I wanted to learn more about how robotics could be applied in the medical field."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+  </div>
 
-**William Qian**
-* Year: 2nd Year
-* Major: Computer Science
-* Project/Team: Application Design (Frontend)
-* "I wanted to get hand-ons practical experience in coding."
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Chris Lee</div>
+    <ul>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."</em></li>
+    </ul>
+  </div>
+</div>
 
-**Colin Strout**
-![](colin.j.strout-upda.jpg){: width="200px" style="float:left; padding-right:30px"} 
-* Year: 2nd Year
-* Major: Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)
-* Project/Team: Firmware Design
-* "I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="matthew-hu.jpeg" alt="Matthew Hu" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
 
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Matthew Hu</div>
+    <ul>
+        <li><strong>Year:</strong> 1st Year</li>
+        <li><strong>Major:</strong> Computer Science and Economics</li>
+        <li><strong>Project/Team:</strong> Application Design (Backend)</li>
+        <li><em>"I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="isabelle-gunawan.jpg" alt="Isabelle Gunawan" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Isabelle Gunawan</div>
+    <ul>
+        <li><strong>Year:</strong> 1st Year</li>
+        <li><strong>Major:</strong> Computer Science</li>
+        <li><strong>Project/Team:</strong> Robotics</li>
+        <li><em>"I joined the lab because I wanted to learn more about how robotics could be applied in the medical field."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">William Qian/div>
+    <ul>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Computer Science</li>
+        <li><strong>Project/Team:</strong> Application Design (Frontend)</li>
+        <li><em>"I wanted to get hand-ons practical experience in coding."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="colin.j.strout-upda.jpg" alt="Colin Strout" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Colin Strout</div>
+    <ul>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)</li>
+        <li><strong>Project/Team:</strong> Firmware Design</li>
+        <li><em>"I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."</em></li>
+    </ul>
+  </div>
+</div>
 
 [back](./)
 
