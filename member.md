@@ -50,7 +50,10 @@ College Students (Top 8%)
 ing Research Association in National English Competition for College Students (Top 0.5%)
 
 ## Graduate students
-* We are actively hiring up to three super-motivated, hardworking, and talented Ph.D. students in Spring 2025 and Fall 2025. Come join us!
+**Tengyue Wu**
+* Major/Concentration: Electrical and Computer Engineering
+* Group: Firmware and Application Design
+* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress.
 
 ## Undergraduate Students
 * We welcome Master’s and undergraduate students who want to do cool projects and develop cool technologies on bioelectronics and robotics. Come join us!
