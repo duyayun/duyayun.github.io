@@ -51,17 +51,62 @@ ing Research Association in National English Competition for College Students (T
 
 ## Graduate students
 **Tengyue Wu**
-* Major/Concentration: Electrical and Computer Engineering
-* Group: Firmware and Application Design
-* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress.
+* Concentration: Electrical and Computer Engineering
+* Project/Team: Firmware and Application Design
+* "My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people&mdash;something that can actually contribute to scientific progress."
+
+**Xinmei Huang**
+* Concentration: Systems Engineering
+* Project/Team: Firmware and Medical Sensor Design
+* "I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to."
+
+**Siva Sai Chaitanya Gudari**
+* Concentration: Electrical and Computer Engineering
+* Project/Team: Circuit Design
+* “I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”
 
 ## Undergraduate Students
-* We welcome Master’s and undergraduate students who want to do cool projects and develop cool technologies on bioelectronics and robotics. Come join us!
+**Caiwan Sun**
+* Year: 2nd Year
+* Major: Electrical and Computer Engineering
+* Project/Team: Circuit Design
+* "I joined the lab to turn hands-on experience into real-world impact."
 
+**Vivian Zeru**
+* Year: 2nd Year
+* Major: Electrical and Computer Engineering (Concentrations in Microelectronics and Embedded Computing & Cyber-Physical Systems)
+* Project/Team: Circuit Design
+* "I joined the lab because I am very interested in creating and designing technological devices to help others!"
 
+**Chris Lee**
+* Year: 2nd Year
+* Major: Electrical and Computer Engineering
+* Project/Team: Circuit Design
+* "I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."
 
+**Matthew Hu**
+* Year: 1st Year
+* Major: Computer Science and Economics
+* Project/Team: Application Design (Backend)
+* "I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."
 
+**Isabelle Gunawan**
+* Year: 1st Year
+* Major: Computer Science
+* Project/Team: Robotics (Backend)
+* "I joined the lab because I wanted to learn more about how robotics could be applied in the medical field."
 
+**William Qian**
+* Year: 2nd Year
+* Major: Computer Science
+* Project/Team: Application Design (Frontend)
+* "I wanted to get hand-ons practical experience in coding."
+
+**Colin Strout**
+* Year: 2nd Year
+* Major: Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)
+* Project/Team: Firmware Design
+* "I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."
 [back](./)
 
 
