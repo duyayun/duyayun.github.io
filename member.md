@@ -58,6 +58,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S)</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
         <li><strong>Project/Team:</strong> Firmware and Application Design</li>
         <li><em>"My goal is to gain a comprehensive understanding of the whole engineering system and work on things that are meaningful to people—something that can actually contribute to scientific progress."</em></li>
@@ -73,6 +74,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang (M.S)</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Concentration:</strong> Systems Engineering</li>
         <li><strong>Project/Team:</strong> Firmware and Medical Sensor Design</li>
         <li><em>“I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to.”</em></li>
@@ -86,9 +88,10 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Siva Sai Chaitanya Guardi</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Siva Sai Chaitanya Guardi (Full-Time Research Engineer)</div>
     <ul>
-        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Date Joined:</strong> <em>April 2025</em></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering (Graduated December 2024)</li>
         <li><strong>Project/Team:</strong> Circuit Design</li>
         <li><em>“I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”</em></li>
     </ul>
@@ -104,6 +107,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Caiwan Sun</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>February 2025</em></li>
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Electrical and Computer Engineering</li>
         <li><strong>Project/Team:</strong> Circuit Design</li>
@@ -120,6 +124,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Vivian Zeru</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>February 2025</em></li>
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Microelectronics and Embedded Computing & Cyber-Physical Systems)</li>
         <li><strong>Project/Team:</strong> Circuit Design</li>
@@ -136,6 +141,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Chris Lee</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>February 2025</em></li>
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Electrical and Computer Engineering</li>
         <li><strong>Project/Team:</strong> Circuit Design</li>
@@ -152,6 +158,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Matthew Hu</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Year:</strong> 1st Year</li>
         <li><strong>Major:</strong> Computer Science and Economics</li>
         <li><strong>Project/Team:</strong> Application Design (Backend)</li>
@@ -168,6 +175,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Isabelle Gunawan</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>March 2025</em></li>
         <li><strong>Year:</strong> 1st Year</li>
         <li><strong>Major:</strong> Computer Science</li>
         <li><strong>Project/Team:</strong> Robotics</li>
@@ -183,6 +191,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">William Qian</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Computer Science</li>
         <li><strong>Project/Team:</strong> Application Design (Frontend)</li>
@@ -199,6 +208,7 @@ ing Research Association in National English Competition for College Students (T
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Colin Strout</div>
     <ul>
+        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)</li>
         <li><strong>Project/Team:</strong> Firmware Design</li>
