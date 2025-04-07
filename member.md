@@ -37,17 +37,8 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
 * 2021 **MIT Civil and Environmental Engineering (CEE) Rising Stars**
 * 2021 Supervisor of Honorable Mention Best Researcher in the National Science Foundation Summer-funded Undergraduate Researcher Program (SURP) 2021 at UCLA
-* 2021 Chinese-American Engineers and Scientists Association of Southern California (CESASC) Scholarship
 * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division
-* 2012-2016 **National Scholarship** from Ministry of Education of the People’s Republic of China with first GPA
-ranking (1/144) for four years in Department of Automotive Engineering
 * 2015 **Top Ten Students** of Harbin Institute of Technology, Weihai (10/12000)
-* 2015 **Outstanding Leader Award** from Harbin Institute of Technology for academic excellence and fantastic student club activity organization 
-* 2014 **Best-organized Volunteer Team Leader** from Harbin Institute of Technology for establishing the first volunteer team of college students to teach in Tibet and building long-term cooperation with the local government
-* 2013 **First Prize** from Heilongjiang Provincial Education Department in Mathematics Competition for
-College Students (Top 8%)
-* 2013 **First Prize** from College Foreign Language Teaching Committee and College Foreign Language Teach-
-ing Research Association in National English Competition for College Students (Top 0.5%)
 
 ## Graduate students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
@@ -56,7 +47,7 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
@@ -72,7 +63,7 @@ ing Research Association in National English Competition for College Students (T
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang (M.S)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang (M.S.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Concentration:</strong> Systems Engineering</li>
