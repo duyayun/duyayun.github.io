@@ -42,7 +42,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 
 ## Graduate students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -58,7 +58,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -74,7 +74,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="siva-sai_chaitanya_gudari.jpg" alt="Siva Sai Chaitanya Gudari" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -91,7 +91,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 
 ## Undergraduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="caiwan-sun.png" alt="Caiwan Sun" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -108,7 +108,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="vivian-zeru.jpeg" alt="Vivian Zeru" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -125,7 +125,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="chris-lee.jpeg" alt="Matthew Hu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -142,7 +142,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="matthew-hu.jpeg" alt="Matthew Hu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
@@ -159,7 +159,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: auto; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="isabelle-gunawan.jpg" alt="Isabelle Gunawan" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
