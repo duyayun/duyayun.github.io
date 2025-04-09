@@ -6,8 +6,10 @@ navigation_weight: 5
 ---
 
 # Teaching
-## To date, Dr. Du has taught >900 students, consistently achieving outstanding teaching evaluations.
+
 1. **Department of Electrical and Computer Engineering, Vanderbilt University**
+* Fall 2025, Instructor, ECE 5257 - Control Systems I (Undergraduate)
+Dr. Du will teach fundamental control theory and demonstrate its applications in modern automatic systems, including state-of-the-art robotics.
 
 2. **Department of Biomedical Engineering, Northwestern University**
 * Spring 2023 - 2024, Teaching Associate, hemodynamics measurement lab in Bioelectronics (Graduate)
