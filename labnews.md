@@ -16,10 +16,10 @@ navigation_weight: 9
 * Our paper titled "A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection" has been accepted by **Proceedings of the National Academy of Sciences of the United States of America (PNAS)**, more info to be released soon!
 
 ## March 2025
-* Dr. Du gave a VISE seminar on wearable and implantable electronics!
-[Instagram Post](https://www.instagram.com/visevanderbilt/p/DHbnLctxN-Q/)
-[VISE SEMINARS](https://www.vanderbilt.edu/vise/category/media/)
-[Dr. Du's Spring Seminar](https://www.vanderbilt.edu/vise/vise-spring-seminar-with-yayun-du-phd/)
+* Dr. Du gave a VISE seminar on wearable and implantable electronics!<br>
+[Instagram Post](https://www.instagram.com/visevanderbilt/p/DHbnLctxN-Q/)<br>
+[VISE SEMINARS](https://www.vanderbilt.edu/vise/category/media/)<br>
+[Dr. Du's Spring Seminar](https://www.vanderbilt.edu/vise/vise-spring-seminar-with-yayun-du-phd/)<br>
 
 ## February 2025
 * Dr. Du gave an invited talk at Cardiology at **Vanderbilt University Medical Center (VUMC)**, where she shared recent advances from the lab in wearable and implantable sensor systems for cardiovascular monitoring.
