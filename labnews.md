@@ -2,8 +2,8 @@
 layout: default
 title: Du Group 
 description: Updates and Announcement from Du Group
-navigation_weight: 9
 permalink: /labnews.html
+navigation_weight: 9
 ---
 
 # Lab News
