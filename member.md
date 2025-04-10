@@ -176,7 +176,8 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="william-qian.jpeg" alt="William Qian" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
