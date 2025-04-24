@@ -57,7 +57,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
@@ -71,7 +71,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>“I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to.”</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
