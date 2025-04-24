@@ -40,7 +40,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division
 * 2015 **Top Ten Students** of Harbin Institute of Technology, Weihai (10/12000)
 
-## Graduate students
+## Graduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: auto; object-fit: contain;" />
