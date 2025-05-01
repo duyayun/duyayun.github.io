@@ -177,7 +177,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="william-qian.jpeg" alt="William Qian" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="william-qian.jpeg" alt="William Qian" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
@@ -187,10 +187,11 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><strong>Year:</strong> 2nd Year</li>
         <li><strong>Major:</strong> Computer Science</li>
         <li><strong>Project/Team:</strong> Application Design (Frontend)</li>
-        <li><em>"I wanted to get hand-ons practical experience in coding."</em></li>
+        <li><em>"I joined the Du lab because its mission to develop bioengineering sensors aligns with my goal to merge software innovation with real-world biomedical challenges."</em></li>
     </ul>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
