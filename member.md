@@ -40,7 +40,40 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division
 * 2015 **Top Ten Students** of Harbin Institute of Technology, Weihai (10/12000)
 
+## Postdoc Scholars
+
+
 ## Graduate Students
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Xingtao Lin" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Xingtao Lin (Ph.D.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Shuda Dong" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Xingtao Lin (Ph.D.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="tengyue-wu.jpg" alt="Tengyue Wu" style="width: 100%; height: auto; object-fit: contain;" />
@@ -141,7 +174,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="matthew-hu.jpeg" alt="Matthew Hu" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
@@ -156,7 +189,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
