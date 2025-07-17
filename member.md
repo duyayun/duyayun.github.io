@@ -65,7 +65,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Xingtao Lin (Ph.D.)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Shuda Dong (Ph.D.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
