@@ -14,6 +14,7 @@ navigation_weight: 9
 * Dr. Du is giving an invited talk at **[IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN 2025](https://bsn.embs.org/2025/)**, to be held November 3 – 5, 2025, at University of California, Los Angeles, California.  
 
 ## October 2025
+* Dr. Du is giving a talk at **[2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/)**, to be held October 12-15, 2025, at the Georgia Institute of Technology in Atlanta, Georgia. 
 * Dr. Du is hosting a workshop titled **From Bioelectronics to Digital Biomarkers: AI-Driven Continuous Health Monitoring** at **[IEEE-EMBS International Conference on Biomedical and Health Informatics 2025](https://bhi.embs.org/2025/)**, to be held October 26–29, 2025, at the Georgia Institute of Technology in Atlanta, Georgia. 
 
 ## July 2025
