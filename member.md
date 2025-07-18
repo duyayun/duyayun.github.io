@@ -122,6 +122,38 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Kindeep Dhatt" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Kindeep Dhatt (M.S.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>May 2025</em></li>
+        <li><strong>Concentration:</strong> ViSE Engineering</li>
+        <li><strong>Project/Team:</strong> Signal Processing and Sensor Development</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Charles Thomas Gordon" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Charles Thomas Gordon (M.S.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Sensor Development</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
+
 ## Undergraduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
@@ -240,6 +272,22 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)</li>
         <li><strong>Project/Team:</strong> Firmware Design</li>
         <li><em>"I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Yuming Xie" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Yuming Xie</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>June 2025</em></li>
+        <li><strong>Concentration:</strong> Biomedical Engineering</li>
+        <li><strong>Project/Team:</strong> Signal Processing and Machine Learning</li>
+        <li><em>"TBD."</em></li>
     </ul>
   </div>
 </div>
