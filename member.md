@@ -138,7 +138,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="fill.jpeg" alt="Charles Thomas Gordon" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
@@ -152,7 +152,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"TBD."</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 ## Undergraduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
