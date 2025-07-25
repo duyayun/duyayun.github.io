@@ -278,7 +278,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 </div>
 
 ## Alumni
-* Siva Sai Chaitanya Guardi (Electrical Engineer, March-July 2025)
+* Siva Sai Chaitanya Guardi (Electrical Engineer, April-July 2025)
 
 [back](./)
 
