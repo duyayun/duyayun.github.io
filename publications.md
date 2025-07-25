@@ -10,12 +10,14 @@ navigation_weight: 2
 Research works are being submitted and submitted to prestigious journals (some of them impact factor > xx) that are forthcoming. Research works are published in RAL, ICRA, IROS, RoboSoft, etc.
 
 
-# **Wireless multimodal wearable EXG-SCG-Acc sensors (several first-authored forthcoming)**
+# **Wireless multimodal wearable sensors with XAI (high-impact first-authored papers forthcoming)**
 * **Key words**: Digital health, multimodality, disease diagnosis, cardiovascular health, neurology, drug delivery, behavior science
 ![Wearables](wearables.png) 
 ![Implantable](implantable.png) 
-## [**A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection**](https://www.pnas.org/doi/10.1073/pnas.2501220122)
-[Media coverage 1](https://news.feinberg.northwestern.edu/2025/06/20/wearable-sleep-monitoring-device-may-improve-detection-of-sleep-disorders/), [Media coverage 2](https://engineering.vanderbilt.edu/2025/06/24/ai-enhanced-wearable-sleep-monitoring-device-aims-to-improve-detection-of-sleep-disorders/) 
+* - **Y. Du**#, J. Gu#, S. Duan#, J. Trueb, A. Tzavelis, H.-S. Shin, H. Arafa, X. Li, Y. Huang, A. N. Carr, C. R. Davies, J. A. Rogers,  
+  [_A skin-interfaced wireless wearable device and data analytics approach for sleep-stage and disorder detection_](https://www.pnas.org/doi/10.1073/pnas.2501220122),  
+  *Proceedings of the National Academy of Sciences (PNAS)*, 2025, [Media coverage 1](https://news.feinberg.northwestern.edu/2025/06/20/wearable-sleep-monitoring-device-may-improve-detection-of-sleep-disorders/), [Media coverage 2](https://engineering.vanderbilt.edu/2025/06/24/ai-enhanced-wearable-sleep-monitoring-device-aims-to-improve-detection-of-sleep-disorders/) 
+
 **Key words**: Wearable electronics, digital health, sleep study, sleep apneas, data analytics  
 ![Sleep](sleep-Fig1.jpg)
 
