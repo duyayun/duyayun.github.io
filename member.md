@@ -106,21 +106,6 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div> -->
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="siva-sai_chaitanya_gudari.jpg" alt="Siva Sai Chaitanya Gudari" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Siva Sai Chaitanya Guardi (Full-Time Research Engineer)</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>April 2025</em></li>
-        <li><strong>Concentration:</strong> Electrical and Computer Engineering (Graduated December 2024)</li>
-        <li><strong>Project/Team:</strong> Circuit Design</li>
-        <li><em>“I joined Dr. Du’s lab to design circuits for best-in-class wearable and implantable medical devices.”</em></li>
-    </ul>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
@@ -291,6 +276,9 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
     </ul>
   </div>
 </div>
+
+## Alumni
+* Siva Sai Chaitanya Guardi (Electrical Engineer, March-July 2025)
 
 [back](./)
 
