@@ -8,17 +8,11 @@ navigation_weight: 8
 
 ## For contacting PI (see [Opportunity](./opportunity) for potential positions)
 * Email: yayun.du[at]vanderbilt.edu
-* Mailing address: 
-
-```
-TBD
-
-```
 
 ## Lab location
 
 ```
-Room 234
+Room 343
 Featheringill-Jacobs Hall,
 2414 Highland Ave, 
 Nashville, TN 37240, USA
