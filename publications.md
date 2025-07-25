@@ -14,11 +14,13 @@ Research works are being submitted and submitted to prestigious journals (some o
 * **Key words**: Digital health, multimodality, disease diagnosis, cardiovascular health, neurology, drug delivery, behavior science
 ![Wearables](wearables.png) 
 ![Implantable](implantable.png) 
-## **A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection (forthcoming)**
-* **Key words**: Wearable electronics, digital health, sleep study, biomarkers, data analytics
-![Sleep](sleep-Fig1.jpg) 
+## [**A skin-interfaced wireless wearable device and data analytics approach for sleep stage and disorder detection**](https://www.pnas.org/doi/10.1073/pnas.2501220122)
+[Media coverage 1](https://news.feinberg.northwestern.edu/2025/06/20/wearable-sleep-monitoring-device-may-improve-detection-of-sleep-disorders/), [Media coverage 2](https://engineering.vanderbilt.edu/2025/06/24/ai-enhanced-wearable-sleep-monitoring-device-aims-to-improve-detection-of-sleep-disorders/) 
+**Key words**: Wearable electronics, digital health, sleep study, sleep apneas, data analytics  
+![Sleep](sleep-Fig1.jpg)
 
-* L. C. Alarcón-Segovia, K. E. Madsen, C. Liu, S. H. Kim, T. W. Park, **Y. Du**, K. Salame, J. Rogers, Ultralow-cost hydrogel electrolytes based on agricultural by-products for distributed electrophysiological recording in resource-limited settings (Under review)
+* L. C. Alarcón-Segovia, K. E. Madsen, C. Liu, S. H. Kim, T. W. Park, **Y. Du**, K. Salame, J. Rogers,  
+  [_Ultralow-cost hydrogel electrolytes based on agricultural by-products for distributed electrophysiological recording in resource-limited settings_](https://pubs.acs.org/doi/10.1021/acssuschemeng.4c07823), *ACS Sustainable Chemistry & Engineering*, April 2025
 
 # **Pain study with multimodal wearables in the NICU**
 * Slattery, S., Pessano, S., Yoo, **Du, Y.**, J., Oh, S., Jeong, H., Alla, A., Rand, C., Hamvas, A., Mayer, D., Rogers, J., Continuous monitoring with wireless sensors and applied diagnostics for pain with Clinical Sensor Pain Scale and computer-aided Automated Sensor Pain Scale in the NICU, BMJ Health & Care Informatics (Under review)
