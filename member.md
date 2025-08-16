@@ -123,21 +123,37 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="fill.jpeg" alt="Charles Thomas Gordon" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="fill.jpeg" alt="Hangqi Ren" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Hangqi Ren (M.S.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Project/Team:</strong> Human Robot Interaction</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Devon A Pytel" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Charles Thomas Gordon (M.S.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
-        <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
+        <li><strong>Concentration:</strong> ViSE Engineering</li>
         <li><strong>Project/Team:</strong> Sensor Development</li>
         <li><em>"TBD."</em></li>
     </ul>
   </div>
-</div> -->
+</div>
 
 ## Undergraduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
@@ -263,16 +279,17 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="fill.jpeg" alt="Yuming Xie" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="yuming-xie.jpg" alt="Yuming Xie" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Yuming Xie</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>June 2025</em></li>
+        <li><strong>Year:</strong> 4th Year</li>
         <li><strong>Concentration:</strong> Biomedical Engineering</li>
         <li><strong>Project/Team:</strong> Signal Processing and Machine Learning</li>
-        <li><em>"TBD."</em></li>
+        <li><em>"I joined Du Group to explore and contribute to the development of innovative biomedical and electrical technologies that improve healthcare and benefit those in need"</em></li>
     </ul>
   </div>
 </div>
