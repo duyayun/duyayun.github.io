@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Group
+title: SYMBIO - X Lab
 description: Outreach
 navigation_weight: 6
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Group 
+title: SYMBIO - X Lab
 description: Member
 navigation_weight: 4
 ---
@@ -34,11 +34,9 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 
 ### Selected Honors and Awards
 * 2023 Humboldt Fellowship from Alexander von Humboldt Foundation (25% - 30%) 
-* 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
 * 2021 **MIT Civil and Environmental Engineering (CEE) Rising Stars**
-* 2021 Supervisor of Honorable Mention Best Researcher in the National Science Foundation Summer-funded Undergraduate Researcher Program (SURP) 2021 at UCLA
-* 2018-2021 Graduate Division Fellowship from UCLA Graduate Division
-* 2015 **Top Ten Students** of Harbin Institute of Technology, Weihai (10/12000)
+* 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
+
 
 ## Postdoc Scholars
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
@@ -302,11 +300,28 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><strong>Year:</strong> 4th Year</li>
         <li><strong>Concentration:</strong> Biomedical Engineering</li>
         <li><strong>Project/Team:</strong> Signal Processing and Machine Learning</li>
-        <li><em>"I joined Du Group to explore and contribute to the development of innovative biomedical and electrical technologies that improve healthcare and benefit those in need"</em></li>
+        <li><em>"I joined Du Group to explore and contribute to the development of innovative biomedical and electrical technologies that improve healthcare and benefit those in need."</em></li>
     </ul>
   </div>
 </div>
 
+## High School Students
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Zoe Eveland" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Zoe Eveland</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <!-- <li><strong>Affiliation:</strong> 4th Year</li> -->
+        <!-- <li><strong>Concentration:</strong> Biomedical Engineering</li> -->
+        <li><strong>Project/Team:</strong> Robtics and Learning</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
 ## Alumni
 * Siva Sai Chaitanya Guardi (Electrical Engineer, April-July 2025)
 
