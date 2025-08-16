@@ -158,7 +158,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Charles Thomas Gordon (M.S.)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Devon A Pytel (M.S.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> ViSE Engineering</li>
