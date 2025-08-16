@@ -41,7 +41,20 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2015 **Top Ten Students** of Harbin Institute of Technology, Weihai (10/12000)
 
 ## Postdoc Scholars
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.jpeg" alt="Dazhe Zhao" style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
 
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Dazhe Zhao (Ph.D.)</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Concentration:</strong> Haptics, Sensing, and Robotics</li>
+        <li><em>"TBD."</em></li>
+    </ul>
+  </div>
+</div>
 
 ## Graduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
