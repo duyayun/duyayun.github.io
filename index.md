@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Group 
+title: SYMBIO - X Lab (Symbiotic Bioelectronics and Robotics Interfaces)  
 description: Just Du It - Leading Innovations in Bioelectronics, Robotics, and Human-in-the-Loop Interaction
 navigation_weight: 1
 ---

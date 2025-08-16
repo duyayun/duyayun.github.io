@@ -46,7 +46,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 ## Graduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="fill.jpeg" alt="Xingtao Lin" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="xingtao-lin.JPG" alt="Xingtao Lin" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
@@ -54,14 +54,14 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
-        <li><em>"TBD."</em></li>
+        <li><em>"The best way to predict the future is to create it."</em></li>
     </ul>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="fill.jpeg" alt="Shuda Dong" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="shuda-dong.jpg" alt="Shuda Dong" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
@@ -69,7 +69,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
-        <li><em>"TBD."</em></li>
+        <li><em>"Standing on the small hill of what I have learned, Dr. Du revealed a new possibility, a path to innovative and meaningful research that can truly change the world. That is why I am here."</em></li>
     </ul>
   </div>
 </div>
@@ -191,7 +191,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="matthew-hu.jpeg" alt="Matthew Hu" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
@@ -206,7 +206,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."</em></li>
     </ul>
   </div>
-</div> -->
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
