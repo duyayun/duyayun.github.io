@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Du Group 
+title: SYMBIO - X Lab 
 description: Updates and Announcement from Du Group
 permalink: /labnews.html
 navigation_weight: 9
