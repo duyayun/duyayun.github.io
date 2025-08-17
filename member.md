@@ -49,7 +49,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> Haptics, Sensing, and Robotics</li>
-        <li><em>"TBD."</em></li>
+        <li><em>"Everything will get better. Just do it!"</em></li>
     </ul>
   </div>
 </div>
