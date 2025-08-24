@@ -15,12 +15,12 @@ navigation_weight: 4
   </figcaption>
 </figure>
 
-<!-- NEW: Sidebar gallery -->
+<!-- NEW: Sidebar gallery
 <aside class="lab-sidebar">
   <h3 style="margin-top:0; border-bottom:2px solid #159957; padding-bottom:.25rem;">Life in SymBio-X</h3>
   <a href="group-dinner-2025.jpg" target="_blank">
     <img class="side-thumb" src="group-dinner-2025-thumb.jpg" alt="Group dinner Fall 2025" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
-  </a>
+  </a> -->
   <!-- <a href="karaoke-2025.jpg" target="_blank">
     <img class="side-thumb" src="karaoke-2025-thumb.jpg" alt="Karaoke night" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
   </a>
