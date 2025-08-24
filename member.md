@@ -27,8 +27,8 @@ navigation_weight: 4
   <a href="demo-2025.jpg" target="_blank">
     <img class="side-thumb" src="demo-2025-thumb.jpg" alt="Lab demo" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
   </a> -->
-  <p style="text-align:right; margin-top:.25rem;"><a href="/gallery/">View more →</a></p>
-</aside>
+  <!-- <p style="text-align:right; margin-top:.25rem;"><a href="/gallery/">View more →</a></p>
+</aside> -->
 
 
 ## Principal Investigator: Dr. Yayun Du 
