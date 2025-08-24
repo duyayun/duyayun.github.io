@@ -7,6 +7,29 @@ navigation_weight: 4
 
 # Members
 
+<!-- NEW: Du group photo -->
+<figure class="du-group">
+  <img src="group-fall-2025.jpg" alt="SymBio-X Lab Group Photo, Fall 2025" style="width:100%; border-radius:12px;">
+  <figcaption style="text-align:center; font-size:.9rem; color:#666; margin-top:.4rem;">
+    SymBio-X Lab • Fall 2025 • Vanderbilt University
+  </figcaption>
+</figure>
+
+<!-- NEW: Sidebar gallery -->
+<aside class="lab-sidebar">
+  <h3 style="margin-top:0; border-bottom:2px solid #159957; padding-bottom:.25rem;">Life in SymBio-X</h3>
+  <a href="group-dinner-2025.jpg" target="_blank">
+    <img class="side-thumb" src="group-dinner-2025-thumb.jpg" alt="Group dinner Fall 2025" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
+  </a>
+  <!-- <a href="karaoke-2025.jpg" target="_blank">
+    <img class="side-thumb" src="karaoke-2025-thumb.jpg" alt="Karaoke night" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
+  </a>
+  <a href="demo-2025.jpg" target="_blank">
+    <img class="side-thumb" src="demo-2025-thumb.jpg" alt="Lab demo" style="width:100%; border-radius:12px; margin-bottom:.6rem; box-shadow:0 2px 8px rgba(0,0,0,.12);">
+  </a> -->
+  <p style="text-align:right; margin-top:.25rem;"><a href="/gallery/">View more →</a></p>
+</aside>
+
 
 ## Principal Investigator: Dr. Yayun Du 
 <div style="float: right; margin-left: 15px;">
