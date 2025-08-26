@@ -179,7 +179,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Devon A Pytel (M.S.)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Devon A Pytel (M.Eng.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
         <li><strong>Concentration:</strong> ViSE Engineering</li>
@@ -331,7 +331,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 ## High School Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="fill.jpeg" alt="Zoe Eveland" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="Zoe.png" alt="Zoe Eveland" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
@@ -341,7 +341,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <!-- <li><strong>Affiliation:</strong> 4th Year</li> -->
         <!-- <li><strong>Concentration:</strong> Biomedical Engineering</li> -->
         <li><strong>Project/Team:</strong> Robtics and Learning</li>
-        <li><em>"TBD."</em></li>
+        <li><em>"I joined Dr. Du's lab because I wanted learn about various elements of robotics and its applications while being able to contribute to technology that will help people in need."</em></li>
     </ul>
   </div>
 </div>
