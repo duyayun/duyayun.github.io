@@ -61,7 +61,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
 
 
-## Postdoc Scholars
+<!-- ## Postdoc Scholars
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="dazhe-zhao.jpg" alt="Dazhe Zhao" style="width: 100%; height: auto; object-fit: contain;" />
@@ -75,7 +75,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"Everything will get better. Just do it!"</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 ## Graduate Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
