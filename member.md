@@ -77,8 +77,8 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div> -->
 
-## Graduate Students
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+## Graduate Students (Three more are joining)
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="xingtao-lin.JPG" alt="Xingtao Lin" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
@@ -91,9 +91,9 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"The best way to predict the future is to create it."</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="shuda-dong.jpg" alt="Shuda Dong" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
@@ -106,7 +106,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"Standing on the small hill of what I have learned, Dr. Du revealed a new possibility, a path to innovative and meaningful research that can truly change the world. That is why I am here."</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
@@ -114,7 +114,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S.)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Tengyue Wu (M.S., incoming Ph.D.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>January 2025</em></li>
         <li><strong>Concentration:</strong> Electrical and Computer Engineering</li>
@@ -124,21 +124,6 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="xinmei-huang.jpeg" alt="Xinmei Huang" style="width: 100%; height: auto; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Xinmei Huang (M.S.)</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
-        <li><strong>Concentration:</strong> Systems Engineering</li>
-        <li><strong>Project/Team:</strong> Firmware and Medical Sensor Design</li>
-        <li><em>“I am very interested in the integration of hardware and software. I believe that developing medical sensors has great social significance and is a field worth fully dedicating myself to.”</em></li>
-    </ul>
-  </div>
-</div> -->
 
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
@@ -207,7 +192,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="vivian-zeru.jpeg" alt="Vivian Zeru" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
@@ -222,94 +207,8 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
         <li><em>"I joined the lab because I am very interested in creating and designing technological devices to help others!"</em></li>
     </ul>
   </div>
-</div>
+</div> -->
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="chris-lee.jpeg" alt="Matthew Hu" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Chris Lee</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>February 2025</em></li>
-        <li><strong>Year:</strong> 2nd Year</li>
-        <li><strong>Major:</strong> Electrical and Computer Engineering</li>
-        <li><strong>Project/Team:</strong> Circuit Design</li>
-        <li><em>"I joined Du Group to see real world applications of work that I have provided contributions to. It is especially redeeming because I know that we are helping real people."</em></li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="matthew-hu.jpeg" alt="Matthew Hu" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Matthew Hu</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
-        <li><strong>Year:</strong> 1st Year</li>
-        <li><strong>Major:</strong> Computer Science and Economics</li>
-        <li><strong>Project/Team:</strong> Application Design (Backend)</li>
-        <li><em>"I joined Dr. Du's lab because her research stood out to me as one that could really help people. I was really fascinated by her work on wearable sensors as it has the potential for so much good for society, and I wanted to be part of that innovation."</em></li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="isabelle-gunawan.jpg" alt="Isabelle Gunawan" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Isabelle Gunawan</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>March 2025</em></li>
-        <li><strong>Year:</strong> 1st Year</li>
-        <li><strong>Major:</strong> Computer Science</li>
-        <li><strong>Project/Team:</strong> Robotics</li>
-        <li><em>"I joined the lab because I wanted to learn more about how robotics could be applied in the medical field."</em></li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="william-qian.jpeg" alt="William Qian" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">William Qian</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
-        <li><strong>Year:</strong> 2nd Year</li>
-        <li><strong>Major:</strong> Computer Science</li>
-        <li><strong>Project/Team:</strong> Application Design (Frontend)</li>
-        <li><em>"I joined the Du lab because its mission to develop bioengineering sensors aligns with my goal to merge software innovation with real-world biomedical challenges."</em></li>
-    </ul>
-  </div>
-</div>
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="colin.j.strout-upda.jpg" alt="Colin Strout" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Colin Strout</div>
-    <ul>
-        <li><strong>Date Joined:</strong> <em>January 2025</em></li>
-        <li><strong>Year:</strong> 2nd Year</li>
-        <li><strong>Major:</strong> Electrical and Computer Engineering (Concentrations in Embedded Computing & Cyber-Physical Systems and Image & Data)</li>
-        <li><strong>Project/Team:</strong> Firmware Design</li>
-        <li><em>"I joined Dr. Du's lab because it provided a unqiue opportunity to gain experience in a field of engineering that I am passionate about with a unique and impactful application of that field."</em></li>
-    </ul>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
@@ -328,6 +227,39 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.png" alt="Htet Htet Paing" style="width: 100%; height: 100%; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Htet Htet Paing</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>November 2025</em></li>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Mechanical Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"."</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="fill.png" alt="Kaylyn Sethakosee" style="width: 100%; height: 100%; object-fit: contain;" />
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.2em;">Kaylyn Sethakosee</div>
+    <ul>
+        <li><strong>Date Joined:</strong> <em>November 2025</em></li>
+        <li><strong>Year:</strong> 2nd Year</li>
+        <li><strong>Major:</strong> Biomedical Engineering</li>
+        <li><strong>Project/Team:</strong> Circuit Design</li>
+        <li><em>"."</em></li>
+    </ul>
+  </div>
+</div>
 ## High School Students
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
@@ -346,7 +278,14 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   </div>
 </div>
 ## Alumni
-* Siva Sai Chaitanya Guardi (Electrical Engineer, April-July 2025)
+* Siva Sai Chaitanya Guardi (MS, ECE)
+* Chris Lee (UG, ECE)
+* Vivian Zeru (UG, ECE)
+* William Qian (UG, CS)
+* Colin Strout (UG, CS)
+* Matthew Hu (UG, CS)
+* Isabelle Gunawan (UG, CS)
+
 
 [back](./)
 
