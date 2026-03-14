@@ -61,21 +61,21 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
 * 2021 Finalists for **Best Paper Award on Agri-Robotics**, **Best Paper Award on Robot Mechanisms and Design** in IROS 2021 (4/1261 for each category)
 
 
-<!-- ## Postdoc Scholars
+## Postdoc Scholars
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="width: 200px; height: 200px; background-color: white; display: flex; justify-content: center; align-items: center; overflow: hidden;">
-    <img src="dazhe-zhao.jpg" alt="Dazhe Zhao" style="width: 100%; height: auto; object-fit: contain;" />
+    <img src="Kysha.JPG" alt="Kaixuan(Kysha) Xu" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 
   <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.2em;">Dazhe Zhao (Ph.D.)</div>
+    <div style="font-weight: bold; font-size: 1.2em;">Kaixuan(Kysha) Xu (Ph.D.)</div>
     <ul>
         <li><strong>Date Joined:</strong> <em>August 2025</em></li>
-        <li><strong>Concentration:</strong> Haptics, Sensing, and Robotics</li>
-        <li><em>"Everything will get better. Just do it!"</em></li>
+        <li><strong>Concentration:</strong> Analytical chemistry and electrochemical sensing</li>
+        <li><em>"I'm passionate about bridging the gap between complex analytical chemistry and wearable technology to empower clinicians and athletes alike."</em></li>
     </ul>
   </div>
-</div> -->
+</div>
 
 ## Graduate Students (Two are joining)
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
