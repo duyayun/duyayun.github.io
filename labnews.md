@@ -8,28 +8,29 @@ navigation_weight: 9
 
 # Lab News
 ## Apr 2026
-<!-- * We are seeking **strong, motivated undergraduate students** to join our lab for **Summer Research** in the areas of **human physiology-enabled robotic teaching and interaction**, with real-world applications in **industrial environments**. This is an exciting opportunity to work on interdisciplinary projects at the intersection of **bioelectronics, robotics, and human-centered AI**. --> -->
+<!-- * We are seeking **strong, motivated undergraduate students** to join our lab for **Summer Research** in the areas of **human physiology-enabled robotic teaching and interaction**, with real-world applications in **industrial environments**. This is an exciting opportunity to work on interdisciplinary projects at the intersection of **bioelectronics, robotics, and human-centered AI**. -->
 * Dr. Du is giving the highlight speech at the **Annual Vanderbilt ECE Day** on April 10th.
 
 ## Mar 2026
 * Congratulations to our undergraduate students **Kaylyn Sethakosee** and **Mankun Yang** for winning the **Summer 2026 VUSE** award and **Summer 2026 Vanderbilt Undergraduate Summer Research Program (VUSRP)** award, respectively! Let's rock the research!
 <!-- * Our lab is awarded four-year  -->
-* Dr. Du is giving an invited spotlight talk at **[Willcoxon Innovation in Health Sciences Summit] (https://www.mssu.edu/willcoxon-health-summit/willcoxon-summit-2026.php)**
+* Dr. Du gave an invited spotlight talk at **[Willcoxon Innovation in Health Sciences Summit](https://www.mssu.edu/willcoxon-health-summit/willcoxon-summit-2026.php)**
 
 ## Feb 2026
-* Dr. Du is giving an invited talk at Vanderbilt Biophotonics Center titled **Translational Multimodal Bioelectronics: From Biosymbiotic Devices to Clinically Integrated Digital Health**, Feb 10, 2026
+* Dr. Du gave an invited talk at Vanderbilt Biophotonics Center titled **Translational Multimodal Bioelectronics: From Biosymbiotic Devices to Clinically Integrated Digital Health**, Feb 10, 2026
 
 <!-- ##  Kindeep-->
 
 ## Nov 2025
-* Dr. Du is giving an invited talk at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025)**, to be held November 15–19, 2025, in San Diego, California.
+* Dr. Du gave an invited talk at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025)**, to be held November 15–19, 2025, in San Diego, California.
 
-* Dr. Du is giving an invited talk at **[IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN 2025](https://bsn.embs.org/2025/)**, to be held November 3 – 5, 2025, at University of California, Los Angeles, California.  
+* Dr. Du gave an invited talk at **[IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN) 2025](https://bsn.embs.org/2025/)**, to be held November 3 – 5, 2025, at University of California, Los Angeles, California.  
 
-* Dr. Du is giving an online invited talk at **[IEEE SFBA MEMS and Sensors Chapter talks](https://www.linkedin.com/posts/ssorionis_in-our-next-ieee-sfba-mems-and-sensors-chapter-activity-7395579809822801920-ZDqH/)**, Nov 19, 2025
+* Dr. Du gave an online invited talk at **[IEEE SFBA MEMS and Sensors Chapter talks](https://www.linkedin.com/posts/ssorionis_in-our-next-ieee-sfba-mems-and-sensors-chapter-activity-7395579809822801920-ZDqH/)**, Nov 19, 2025
 
 ## Oct 2025
-* Dr. Du is giving a talk at **[2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/)**, to be held October 12-15, 2025, at the Georgia Institute of Technology in Atlanta, Georgia. 
+* Dr. Du is going to be a track chair for **[IEEE International Conference on Flexible Printable Sensors and Systems (FLEPS) 2026](https://2026.ieee-fleps.org/)**, July 12-15 2026, Atlanta, Georgia, USA, join us there!
+
 * Dr. Du is hosting a workshop titled **From Bioelectronics to Digital Biomarkers: AI-Driven Continuous Health Monitoring** at **[IEEE-EMBS International Conference on Biomedical and Health Informatics 2025](https://bhi.embs.org/2025/)**, to be held October 26–29, 2025, at the Georgia Institute of Technology in Atlanta, Georgia. 
 
 ## July 2025

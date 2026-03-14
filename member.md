@@ -70,7 +70,7 @@ Currently, Dr. Du involves in **commericializing** the sensors she developed and
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.2em;">Kaixuan(Kysha) Xu (Ph.D.)</div>
     <ul>
-        <li><strong>Date Joined:</strong> <em>August 2025</em></li>
+        <li><strong>Date Joined:</strong> <em>Jan 2026</em></li>
         <li><strong>Concentration:</strong> Analytical chemistry and electrochemical sensing</li>
         <li><em>"I'm passionate about bridging the gap between complex analytical chemistry and wearable technology to empower clinicians and athletes alike."</em></li>
     </ul>
